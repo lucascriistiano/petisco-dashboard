@@ -1,4 +1,7 @@
 # PetisCo - Dashboard
+
+![Dashboard PetisCo](https://github.com/lucascriistiano/petisco-dashboard/blob/main/dashboard.png?raw=true)
+
 **Descrição:** Projeto de Dashboard para projeto de Inovação Tecnológica da Especialização em Engenharia e Análise de Dados
 
 **Projeto:** PetisCo - Experiência para o seu PET (Grupo 2)

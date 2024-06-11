@@ -69,17 +69,28 @@ app.layout = dbc.Container(
             ]
         ),
 
-        dbc.Row(dbc.Col(html.H2("Vendas por Categoria", className="text-center"))),
-
-        dbc.Row(dbc.Col(dcc.Graph(id='vendas-categoria'))),
-
-        dbc.Row(dbc.Col(html.H2("Distribuição de Tipos de Plano", className="text-center"))),
-
-        dbc.Row(dbc.Col(dcc.Graph(id='distribuicao-plano'))),
-
-        dbc.Row(dbc.Col(html.H2("Vendas por Origem", className="text-center"))),
-
-        dbc.Row(dbc.Col(dcc.Graph(id='vendas-origem')))
+        dbc.Row(
+            [
+                dbc.Col(
+                    html.Div([
+                        dbc.Row(dbc.Col(html.H2("Vendas por Categoria", className="text-center"))),
+                        dbc.Row(dbc.Col(dcc.Graph(id='vendas-categoria')))
+                    ])
+                ),
+                dbc.Col(
+                    html.Div([
+                        dbc.Row(dbc.Col(html.H2("Distribuição de Tipos de Plano", className="text-center"))),
+                        dbc.Row(dbc.Col(dcc.Graph(id='distribuicao-plano')))
+                    ])
+                ),
+                dbc.Col(
+                    html.Div([
+                        dbc.Row(dbc.Col(html.H2("Vendas por Origem", className="text-center"))),
+                        dbc.Row(dbc.Col(dcc.Graph(id='vendas-origem')))
+                    ])
+                )
+            ]
+        )
     ],
     fluid=True
 )
