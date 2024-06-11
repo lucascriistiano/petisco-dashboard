@@ -1,0 +1,1001 @@
+data_compra,id_cliente,is_renovacao,categoria,plano,preco_venda,origem
+2024-05-19 08:32:47,f1e4c7d8-9475-46d2-9de9-660f48c07fa2,True,Gatos,Semanal,180.36,Facebook
+2024-03-10 09:06:08,6747151d-440a-43c1-ad9b-5dc5798e6e62,False,Gatos,Mensal,206.48,Instagram
+2024-03-07 03:24:03,275820d1-654e-4386-b7c8-ec3ef92c3d8e,True,Gatos,Mensal,137.84,Instagram
+2024-02-03 00:48:01,1aa0ef30-ee66-46c3-b5c9-bdfe0ef1dd15,True,Aves,Semanal,93.76,Google
+2024-01-16 03:27:23,99426088-9a65-470b-a9fd-1e34321c25e6,True,Aves,Semanal,36.34,Facebook
+2024-01-24 16:57:53,ec466207-bdef-477c-b03d-798380a2b8e4,False,Aves,Mensal,212.43,Twitter
+2024-05-28 00:33:21,4679fb78-7766-4f5a-95e6-82e4fff6d2e2,True,Cães,Semestral,115.4,Boca a boca
+2024-02-12 02:03:25,1674af63-f2f9-4d0c-8dbf-515f8f4a523b,False,Aves,Anual,152.59,Instagram
+2024-05-05 17:33:52,91e1bdda-64f2-45bc-93e2-47ddf198611b,False,Gatos,Semanal,154.28,Google
+2024-04-07 12:18:29,19214714-b5fe-4402-b8f2-a1a4c33d6158,True,Aves,Semestral,174.86,Twitter
+2024-03-08 01:01:40,18485ddb-3f1b-4d98-b8a6-6db25c919de9,True,Cães,Mensal,183.61,Google
+2024-04-18 01:11:30,c2733807-c3ec-45a6-bddb-a7d2691e4994,True,Cães,Semanal,92.5,Google
+2024-01-20 07:46:21,9b8042d5-d78c-4cd1-bb8e-9cf2e0dbc42f,True,Gatos,Semanal,22.22,Google
+2024-06-08 14:31:38,74695cfd-d8d9-4363-9edc-f74d1861e4c0,False,Aves,Semanal,119.2,Facebook
+2024-05-11 06:59:24,4cbfc962-691d-4cab-8455-967a02871b88,False,Gatos,Semestral,187.6,Facebook
+2024-05-28 02:36:17,c613b109-8bfa-4d7d-a1ef-f7b66de6f7ba,False,Cães,Semanal,95.64,Facebook
+2024-01-23 13:50:21,41c41d80-49fd-45fa-90e6-0d3f1a340f03,True,Gatos,Semanal,142.55,Boca a boca
+2024-04-25 12:26:08,6676b165-16ed-4243-abc6-b8570d3bc7b2,False,Peixes,Semestral,48.0,Twitter
+2024-04-03 02:25:38,9fd29734-36f7-48c5-a181-6ad38d33f36a,True,Peixes,Semestral,148.72,Boca a boca
+2024-04-24 06:36:29,8efc11ca-2248-451c-b0df-0369c816fb4a,True,Cães,Semestral,199.42,Twitter
+2024-01-12 13:05:29,1be7a04d-d057-44d1-aaa1-ebd42abc61db,False,Cães,Anual,251.48,Google
+2024-04-11 09:48:02,3252e2f6-f293-41c9-80ec-480b5249c296,False,Cães,Anual,34.29,Facebook
+2024-04-08 23:42:51,59bfcfe7-514d-456f-a656-a3aae1484019,False,Cães,Mensal,283.95,Google
+2024-01-06 23:44:20,958a6543-b535-492c-876b-a193c160bc17,False,Cães,Semanal,139.26,Instagram
+2024-02-11 19:59:07,43076baf-ed17-4b78-bc31-f526c4ce4809,True,Peixes,Semanal,92.19,Facebook
+2024-03-24 02:02:35,bb5f5b32-2595-4cd0-945d-2bbb849c80a5,True,Aves,Anual,259.8,Twitter
+2024-02-01 19:17:10,7ec24b49-4181-4623-8d4b-4b87bf4b4191,True,Gatos,Semestral,158.41,Instagram
+2024-02-18 15:31:17,733b801e-3ea8-47c9-93ac-296d46571c34,False,Aves,Anual,48.74,Boca a boca
+2024-06-02 15:20:58,a6618346-1d5e-422a-8058-e076b81be27d,False,Aves,Semestral,252.47,Twitter
+2024-05-30 05:51:26,8d1bef86-63c5-4d4b-9493-639c82c3e948,False,Gatos,Semestral,62.83,Google
+2024-06-10 19:28:06,d8c804e6-58b4-4c2b-8166-6aaeb94cf08b,True,Gatos,Semanal,59.41,Instagram
+2024-03-23 01:23:13,3472c0b0-9d3c-43d2-a20e-d8a6b46c3ad9,False,Aves,Mensal,190.24,Facebook
+2024-04-12 06:24:23,8bce491a-503d-42de-b4de-671d822e57e6,False,Peixes,Semestral,228.96,Facebook
+2024-01-05 04:36:53,531ca624-f128-4d3b-9f33-665e8473c77d,False,Cães,Semanal,134.79,Google
+2024-02-12 03:48:39,16224b61-2c5d-4f6c-a7b1-8eaf782a3d58,True,Peixes,Anual,219.58,Instagram
+2024-02-15 11:31:02,9582a241-7d09-465f-a24d-cdefc47d35a5,False,Cães,Anual,147.29,Google
+2024-02-20 00:00:30,f0bc31ab-76c4-4b92-8fdc-28e835e1fdd8,False,Gatos,Anual,249.42,Boca a boca
+2024-05-06 07:14:48,40ff0d4e-e16e-4ae6-8fbf-a0eeac7ffa16,True,Cães,Semestral,263.23,Google
+2024-06-05 22:33:06,03b29002-199b-48d3-96a4-7989b1a0bc07,False,Peixes,Semanal,159.28,Instagram
+2024-01-08 06:01:20,bcd82946-a8e3-434a-bd2d-a9bc9350c02a,True,Gatos,Semestral,118.18,Twitter
+2024-02-08 20:19:36,68f2d614-6e0a-4e15-98a5-3fec7691af68,False,Cães,Semestral,175.16,Twitter
+2024-02-10 01:08:56,2092c335-232a-4767-a751-c25a8564641c,False,Cães,Anual,134.77,Google
+2024-05-22 13:26:46,6f2ac84a-5a86-407e-a23b-01679a7092bf,True,Gatos,Anual,270.38,Boca a boca
+2024-01-25 07:57:17,b5e5207a-8834-458f-8b5c-1249fd65ef03,False,Gatos,Semestral,37.12,Twitter
+2024-01-15 15:03:29,59d3927e-65a1-4db9-b340-c49cbf32776f,False,Gatos,Anual,282.18,Facebook
+2024-01-22 13:16:46,f4e5d6d7-8e1e-4136-88e7-41c00c49b67d,False,Aves,Semanal,188.45,Boca a boca
+2024-01-23 14:20:51,99909728-2cbc-403d-871e-8a8fd862d70a,True,Peixes,Anual,227.33,Google
+2024-04-07 07:39:37,4685bcde-a556-44d9-899f-3a4678694c14,False,Gatos,Mensal,245.38,Instagram
+2024-05-19 12:52:30,bb8b1338-985a-4941-b08d-c302a5fa743f,True,Peixes,Semestral,201.13,Twitter
+2024-03-13 04:05:08,d432ba6a-317a-4280-9cbd-f90797ad708d,False,Cães,Semanal,88.16,Google
+2024-01-08 02:20:22,c142d728-7792-487e-8444-c0684d13413c,True,Gatos,Semestral,139.8,Facebook
+2024-06-05 15:05:19,e01270a1-dcd0-4e49-9580-70383fba6541,True,Peixes,Semestral,259.89,Boca a boca
+2024-01-30 23:09:27,05437d88-03fe-4944-849e-6d899e4b8f47,True,Cães,Semestral,286.2,Google
+2024-01-30 12:51:39,f9af492c-22cd-48b5-949d-93d3f3b93179,True,Peixes,Semanal,34.95,Instagram
+2024-03-19 16:22:32,ffd35fab-0354-4a3b-8b1d-c61e86ebef69,False,Aves,Anual,131.74,Instagram
+2024-01-24 09:21:30,7c5f21e3-200d-4d99-8c0e-be9fd27fc793,False,Aves,Anual,233.9,Boca a boca
+2024-03-14 09:14:49,5ce55b59-b96d-4955-8757-38fd7db61ac4,False,Peixes,Anual,207.25,Google
+2024-03-15 23:05:49,01f483e4-c961-45dd-a930-500da0bf91a0,False,Aves,Mensal,165.21,Google
+2024-05-17 09:55:49,a8cfd025-e670-417f-89ba-c35b548a6f26,False,Peixes,Semanal,151.82,Twitter
+2024-02-27 12:04:01,475876c0-2cc2-460a-ac01-a25b8b61d3ec,True,Peixes,Semanal,229.67,Twitter
+2024-04-19 20:04:28,b5915309-1a23-440d-aa53-ff25811e9ce2,False,Gatos,Semanal,114.36,Instagram
+2024-04-08 19:42:22,f4e62b04-c7a5-4695-8d43-adb2efd397d4,True,Peixes,Anual,111.86,Facebook
+2024-01-07 18:42:04,c02a454f-bd49-4773-bf97-735625416fe7,True,Cães,Semanal,235.73,Twitter
+2024-05-21 15:33:37,7f3b3d94-dd21-4224-b024-667e0cce8f60,True,Cães,Anual,122.26,Instagram
+2024-02-22 07:08:10,eb293277-1811-43e1-a502-fd5f8d028b8b,True,Peixes,Mensal,159.06,Facebook
+2024-04-23 05:35:49,3218d5a2-47b1-4238-8e1e-66feeb131c45,True,Cães,Semestral,98.71,Facebook
+2024-02-17 04:09:07,e9fe9102-2dee-458e-92d5-3557aece2613,False,Gatos,Semestral,114.41,Instagram
+2024-04-03 21:17:09,6fa5cf0a-afb2-4866-995e-57e50d7aa1cd,True,Peixes,Anual,107.76,Facebook
+2024-05-16 18:22:25,6931510e-d685-4089-b4de-d206db4f7e1a,False,Peixes,Anual,260.58,Boca a boca
+2024-04-03 17:06:56,8bf22cf3-84f0-4d1e-b13f-19f16d78bee4,False,Peixes,Mensal,40.15,Boca a boca
+2024-01-06 02:48:18,5f76d1d3-0d52-488c-b909-cad41e6b14ea,False,Aves,Semestral,139.8,Facebook
+2024-02-12 09:51:21,22a451d1-c38e-4a43-9b39-2a600e15adf8,False,Gatos,Semanal,149.94,Facebook
+2024-01-28 01:41:04,62fa9be5-8bb3-4d02-aa71-55d5548dfc09,False,Cães,Semanal,68.79,Instagram
+2024-03-29 20:15:31,20477623-e12f-4ba4-ae7c-377d27261986,True,Aves,Semanal,168.39,Boca a boca
+2024-05-24 03:45:47,e78ff0ff-10c3-465e-b2d9-830947d9d014,False,Peixes,Mensal,138.04,Instagram
+2024-04-10 04:02:20,0a1cf302-1400-403e-becf-286fd405fd69,False,Peixes,Mensal,284.51,Facebook
+2024-02-08 22:55:57,80799724-f09d-4bc5-9a8b-c455618b0759,True,Peixes,Anual,273.56,Instagram
+2024-06-03 10:04:44,7727e029-9082-4933-ac3e-831a6c04f42b,True,Peixes,Anual,278.9,Boca a boca
+2024-02-22 14:42:48,675b5ddf-5cef-48a3-90f3-acaaacb07b1c,False,Peixes,Semanal,32.88,Facebook
+2024-03-24 18:40:02,c2357025-0cbf-4262-9218-49f576ae45b5,False,Cães,Semanal,86.01,Boca a boca
+2024-02-12 21:23:29,02c5935e-92d9-4166-b1c8-3b3e3346e902,False,Cães,Anual,239.14,Instagram
+2024-05-27 19:45:53,67f8563f-2aba-4fa9-8f9f-96f8436341ea,False,Aves,Semestral,53.4,Facebook
+2024-02-15 23:15:29,1470ef6d-a677-45cc-81cf-ceec4376ea08,True,Peixes,Anual,107.77,Google
+2024-04-13 00:45:50,f4dc867c-9d4a-43e5-9698-4970449daa7b,True,Peixes,Semanal,143.81,Twitter
+2024-02-28 18:27:08,41cac261-6be8-475e-b5de-69cf1a6f582c,True,Peixes,Mensal,139.19,Boca a boca
+2024-03-05 06:21:28,c3f1aff2-15cf-4458-9dc3-96ce44cd8363,False,Peixes,Mensal,247.82,Boca a boca
+2024-04-20 00:35:23,9ddf0eb1-b828-48b3-924e-3bacf69ee887,False,Cães,Semanal,265.33,Twitter
+2024-03-01 22:48:29,72dc917a-067a-4522-8467-3a4d753fcdd9,True,Peixes,Semestral,83.8,Twitter
+2024-06-09 05:34:58,76986e97-19be-4a76-8da5-02a8721e0174,False,Peixes,Semanal,75.59,Google
+2024-02-03 04:12:10,fb0b3fe7-caf1-4579-a93d-7100f7fe1baf,False,Gatos,Semestral,47.26,Twitter
+2024-02-14 15:31:23,0778eea7-c33a-43fb-9575-8fa5150ccbb4,True,Aves,Mensal,153.73,Boca a boca
+2024-05-18 00:19:24,e62e4864-dc5a-40e7-823b-83fa551dd473,False,Aves,Mensal,68.62,Google
+2024-02-25 21:24:36,514bcbe9-f24a-4b24-9f4a-ecb6368a94af,True,Aves,Semanal,288.63,Facebook
+2024-05-08 04:55:54,fa1757fd-ef0b-4bd2-b26f-9c0aa06b0b0d,True,Aves,Anual,66.12,Twitter
+2024-06-09 09:03:15,cc2c8044-1ae2-4b0c-abe1-28bf22dc2ab1,True,Peixes,Semestral,109.52,Google
+2024-05-02 22:50:24,16e6a981-30bd-4971-9d5c-4e465bfb9a60,False,Aves,Mensal,111.13,Instagram
+2024-03-11 08:39:16,2a5364de-4170-4c4e-9acf-1063af6bd027,True,Gatos,Anual,92.95,Instagram
+2024-01-23 05:53:05,a42178ac-76a6-4a94-85ce-5914eb628b38,True,Peixes,Semestral,257.18,Twitter
+2024-04-15 16:14:31,e4ea8574-be8d-402f-84ee-851d8af1cded,False,Aves,Anual,290.12,Instagram
+2024-05-25 20:37:58,09c3a4d3-6d41-48e1-a542-a48edb18cfb3,True,Peixes,Anual,243.28,Twitter
+2024-02-06 19:43:13,7812be33-fe2d-499e-9283-1fb8061d5253,False,Aves,Semestral,227.91,Facebook
+2024-01-01 20:40:23,20cb8daf-404b-4a62-a18a-2e42ecbd7eb0,False,Peixes,Anual,272.3,Boca a boca
+2024-04-28 23:43:05,d3493054-b1fa-413b-990a-d2a16ce2ba7a,False,Peixes,Semestral,126.13,Instagram
+2024-05-26 03:20:54,29333a14-f8b2-4bf4-964a-772ab5834f98,False,Cães,Mensal,226.8,Google
+2024-02-10 22:42:33,016b4c1b-1edd-4238-81f6-fbea9d47a611,False,Peixes,Semanal,161.25,Google
+2024-05-25 14:22:59,ecbd7127-c7a6-410c-806b-b96b0643a75b,False,Peixes,Semanal,57.79,Instagram
+2024-04-22 03:44:52,df48faeb-3984-4196-8fbc-a30d544f960a,False,Aves,Semanal,282.63,Twitter
+2024-01-10 17:00:39,169c14df-4d90-4036-88aa-601a40afa2ac,True,Peixes,Semestral,62.17,Twitter
+2024-05-06 18:32:15,7952df76-c8f9-4bfa-a5a3-b6089993c97e,False,Peixes,Anual,173.63,Google
+2024-01-11 22:04:57,e8de7b29-ad1b-4ba8-8584-b76f557dbee7,True,Cães,Anual,49.52,Twitter
+2024-05-24 21:33:16,0c368e64-4433-4bef-ae12-60c1011cfad3,False,Cães,Semanal,97.15,Boca a boca
+2024-01-03 20:25:38,2d6bf3fc-c06e-46ae-84d0-042639576287,False,Gatos,Semanal,122.01,Facebook
+2024-05-23 22:03:36,baf479c4-fd14-4bb1-8290-2c4fb862ac8d,True,Cães,Mensal,25.4,Instagram
+2024-04-01 00:13:39,648356ab-ffd0-4528-8ff4-3a771fd23fb8,True,Gatos,Mensal,188.34,Google
+2024-03-10 04:47:17,c7f907ec-bb6f-4de8-8990-cbc38eb9ac7c,True,Peixes,Semanal,276.66,Boca a boca
+2024-03-06 17:23:55,c882f31d-ea84-41f8-9f42-3736efbafb0c,True,Peixes,Semanal,232.89,Facebook
+2024-02-14 12:58:40,75612299-9192-4b3e-bafb-80cbb2453cf7,True,Peixes,Anual,242.24,Twitter
+2024-05-08 17:45:54,18378123-c12c-409f-8f1f-4fb1725f06c0,False,Aves,Mensal,216.95,Facebook
+2024-01-10 05:48:32,37999a89-14f4-4b85-85e2-3974a4280f8c,False,Aves,Semanal,279.17,Facebook
+2024-05-11 10:23:33,8de6ac40-237b-475b-b89c-8274e5c58101,False,Peixes,Anual,114.38,Boca a boca
+2024-01-11 04:10:30,53267ea5-6859-4e12-8092-3c4ea38e4ef0,True,Peixes,Semanal,116.69,Facebook
+2024-06-01 13:23:54,234c7f02-4ca7-4a6a-8015-bb1daff4b9ba,False,Cães,Semanal,91.53,Google
+2024-02-17 04:17:36,dbd365d9-0c58-4319-bc9b-6dd67a8b0bea,True,Cães,Semanal,184.43,Boca a boca
+2024-02-11 16:23:09,d764178f-4d76-4b4d-a4cb-d0f438df6d36,True,Cães,Anual,257.27,Boca a boca
+2024-03-21 06:34:33,e9e6ad3e-60f8-4476-892d-de6c56b7c368,False,Gatos,Semestral,295.33,Facebook
+2024-03-02 07:35:51,07c4ab41-570d-44be-9c74-8a868e35bdd2,False,Aves,Mensal,44.94,Google
+2024-06-01 00:46:20,382327d3-4990-4986-8959-f1b2c4e4eb6a,False,Peixes,Mensal,160.87,Facebook
+2024-03-08 14:08:17,c8e01ab2-f03d-4334-a6aa-358d211cc94a,True,Aves,Anual,100.2,Facebook
+2024-03-25 05:44:09,c355ce77-7da8-46d1-b505-45ff241072ad,True,Cães,Semanal,229.01,Google
+2024-05-30 08:31:11,687bbf8a-f8a4-4acb-9707-07627105a5bc,True,Aves,Semestral,74.88,Instagram
+2024-04-23 10:04:21,36e95978-fb99-4ebe-a6cc-30c65295d1f5,True,Aves,Anual,162.22,Twitter
+2024-03-19 16:10:40,9257477f-043c-4dd3-919e-2915afe199d0,False,Cães,Semestral,136.69,Twitter
+2024-05-15 09:35:51,6788d832-0ef6-4f8d-a27e-47a75e924a29,True,Peixes,Semanal,91.45,Boca a boca
+2024-01-15 04:33:33,16b2b644-57ca-469d-b244-253197f23212,True,Peixes,Mensal,157.63,Instagram
+2024-03-07 10:53:33,25cb96a3-0727-43d5-9763-0ec0e429a63f,True,Peixes,Semestral,44.97,Google
+2024-05-30 17:02:00,c37238cd-2eed-482d-a28a-ab9df62d7672,False,Gatos,Anual,101.28,Facebook
+2024-05-12 00:33:24,2db87d59-3a56-4eed-bfa9-b2a650eec8fd,True,Cães,Semanal,125.33,Instagram
+2024-01-06 12:29:09,91717f83-3612-4f4d-8729-d4517ae84ef6,False,Gatos,Semestral,177.46,Instagram
+2024-02-28 16:15:17,47a690ae-0473-4607-b6ef-e7f7ef98e82b,True,Peixes,Semanal,132.9,Instagram
+2024-02-15 16:06:32,cb29d758-5aac-42c1-a290-23e4e551db8c,False,Peixes,Semestral,39.34,Twitter
+2024-03-16 15:52:50,e6d28304-b88c-4e3d-9b99-4b97d92332db,False,Aves,Semanal,44.96,Google
+2024-04-21 18:45:24,b4dc5d30-021d-4b09-9756-0f88f6ea990e,False,Gatos,Mensal,152.27,Twitter
+2024-03-11 02:12:07,5d7fd3da-1914-478d-8751-39eb804ff573,True,Aves,Semestral,220.87,Boca a boca
+2024-06-03 02:05:48,1bb7af16-2007-48eb-b835-7edcab1c32f5,True,Aves,Mensal,278.93,Boca a boca
+2024-06-03 13:50:11,aabb7ecc-c314-473d-b70c-270c00f95b79,False,Gatos,Anual,196.44,Twitter
+2024-03-27 07:18:31,ec02c8cf-bd18-485c-8aae-733a132e7c82,True,Gatos,Mensal,153.33,Google
+2024-05-01 10:53:31,c360d03d-37bd-4abf-9b9d-9a55dd1bd736,False,Cães,Anual,272.98,Boca a boca
+2024-06-02 20:34:06,37b56829-9f36-4717-bcfd-11f21a193d88,False,Cães,Semestral,23.59,Google
+2024-05-01 02:00:34,40019b63-5387-4c2b-a0fd-a8ea82304413,True,Peixes,Semestral,81.23,Facebook
+2024-04-20 23:07:51,f5dcbf1b-9447-4dfc-8abf-7934ee161600,False,Aves,Anual,122.85,Twitter
+2024-03-26 04:09:44,be84f1b6-d0c9-46d6-8aa3-01cd5c7cd2f2,True,Aves,Semanal,58.84,Instagram
+2024-04-19 10:11:20,d0db765d-d8e0-4cd4-8016-35df3f0bbc7d,False,Aves,Semestral,84.96,Facebook
+2024-02-04 08:54:02,91079085-793b-4aef-815c-878720485bec,True,Gatos,Anual,180.66,Google
+2024-04-10 08:57:51,6add6b6b-2074-4680-a5b1-00b6e3f5a18c,False,Cães,Semestral,227.03,Instagram
+2024-04-15 06:20:10,b19fb5c8-c4bc-4ff3-9ec6-292126c57ace,False,Aves,Mensal,207.32,Google
+2024-03-25 14:32:12,fe8941d7-5541-4ed3-8cee-706f9296f413,True,Aves,Semanal,272.81,Facebook
+2024-01-02 12:39:05,19cd98ae-0923-417b-b3ad-2234c5b34148,True,Peixes,Mensal,293.32,Facebook
+2024-03-18 13:05:53,6b0a0fff-fc95-4d3d-92f0-d3086cbebba6,True,Cães,Mensal,129.86,Instagram
+2024-04-16 04:23:10,3f8849b4-f6ab-483d-b46b-af40a767361f,True,Aves,Mensal,39.37,Facebook
+2024-01-18 22:50:48,08970c2d-7417-494f-ad3f-f42702ff0d1a,True,Peixes,Semestral,272.63,Boca a boca
+2024-05-23 16:58:41,838ddcc5-3e36-48b9-82cc-f12296e4ede4,False,Gatos,Mensal,136.29,Google
+2024-05-08 15:27:31,a8c84aff-579f-40ad-a446-6c14875ed4cf,True,Peixes,Mensal,116.62,Twitter
+2024-01-18 20:44:26,dac50055-245d-4aa5-995a-0a7b388a6c94,False,Aves,Semanal,178.57,Boca a boca
+2024-04-14 20:35:27,406cf162-2fba-4b61-b0b4-b783f6ff3045,False,Peixes,Semestral,23.95,Boca a boca
+2024-04-21 03:58:52,9f7025cd-c5a9-410a-82cc-68e80dd20196,False,Aves,Anual,228.85,Instagram
+2024-04-07 08:59:36,1da1adbf-8adf-463b-9306-e1b20fd36211,True,Peixes,Semanal,165.97,Instagram
+2024-04-19 15:37:43,de67b024-9cc8-4b88-ad4b-37135523fe4b,True,Gatos,Anual,191.66,Twitter
+2024-02-08 04:30:09,fd035c97-2fe9-461e-99d8-db7b25fb7220,False,Gatos,Mensal,136.68,Twitter
+2024-02-27 09:45:23,a3566f2c-4639-433b-a349-f3370a34879e,False,Aves,Mensal,204.82,Boca a boca
+2024-06-01 15:59:54,7f0bc25a-c62e-4a88-a365-63c737b25dfa,True,Cães,Semanal,152.61,Google
+2024-05-06 02:49:33,a890c357-1b7f-4532-a7d8-d41513af8716,False,Peixes,Anual,115.77,Twitter
+2024-01-17 22:41:37,d7db9053-3571-4a48-9578-b16c82f44fbc,False,Cães,Mensal,22.37,Facebook
+2024-02-22 10:12:54,c1c22a21-404e-4b96-8ffc-0f6d4dfa7e9b,False,Cães,Semestral,50.69,Google
+2024-02-14 10:24:26,6037e3c9-b95b-4ca2-bed8-d710c0c1d696,True,Aves,Anual,298.36,Twitter
+2024-03-20 06:45:12,f9c00d91-114e-4b1d-9c6c-cc3a13a3f507,True,Aves,Anual,126.1,Twitter
+2024-01-10 22:00:51,7c1b1a85-65fa-4a6b-8924-1eff0e42d1b3,True,Gatos,Semanal,145.1,Twitter
+2024-01-22 06:44:01,f40c645b-c980-4303-98f9-b0d998f137d1,True,Aves,Semestral,202.43,Google
+2024-05-07 14:21:01,618d5388-cdf5-46a0-bfa3-c41a42fa04cc,True,Aves,Semestral,120.63,Twitter
+2024-03-16 13:25:04,fcdf88d1-ae11-4091-a89b-2bb2da5e1819,True,Aves,Semestral,203.17,Boca a boca
+2024-03-21 13:39:07,f36e2fc7-fb01-40f4-bf5d-f0e10e968931,True,Peixes,Semestral,279.43,Google
+2024-05-01 02:39:59,d1360780-bdab-4c42-91ef-a47cf63ecc95,False,Gatos,Mensal,281.18,Twitter
+2024-01-14 11:13:18,eccdf7c4-3d67-4ee5-9707-961352af8b93,True,Aves,Semanal,257.31,Boca a boca
+2024-05-06 02:22:27,4565059a-1986-4fa4-8902-35954b6e2e6a,False,Cães,Semestral,254.9,Google
+2024-05-11 02:53:36,23f7130d-de20-443b-8b86-e5f23af4aa1a,False,Cães,Semanal,57.83,Google
+2024-01-11 13:08:32,a3681ec6-2310-45e8-961f-cd42ba21a7d6,True,Aves,Semestral,30.88,Facebook
+2024-04-04 17:55:32,0c3a34d6-8e5a-4b54-ba2e-a16de2772236,True,Cães,Mensal,249.91,Boca a boca
+2024-04-28 08:17:35,a5db9747-c22a-4974-b212-d9ace5433b48,True,Peixes,Semanal,68.77,Boca a boca
+2024-06-02 02:31:40,66e83c2d-20cc-466e-ab02-b5965efdbad1,True,Peixes,Semanal,34.16,Instagram
+2024-05-03 10:24:19,1a03907d-a20a-46dc-af3e-783b062b316d,True,Gatos,Semestral,216.06,Instagram
+2024-06-09 19:05:34,0b2b500d-d94e-4632-a4c1-84b17194725d,False,Gatos,Semanal,212.46,Instagram
+2024-05-03 06:07:24,006331f0-298e-43f6-9f90-3a76b3736354,False,Aves,Semanal,143.08,Twitter
+2024-03-29 20:21:01,b0d5b79c-b325-4d81-919c-c7b5f8e777d6,False,Aves,Mensal,137.22,Google
+2024-04-28 02:52:48,a2797c9c-8d17-4c96-88f7-b27a26a43f90,False,Gatos,Mensal,149.68,Instagram
+2024-02-21 07:06:18,15d6f187-cbce-4375-b2d3-259b0751f011,True,Cães,Semanal,44.68,Twitter
+2024-01-16 05:12:00,337d90ed-b3ee-439a-97c7-786b2afe1c7d,True,Peixes,Mensal,128.17,Facebook
+2024-03-05 14:47:35,779fc210-7d51-4462-bbdc-79d5193c2ab8,False,Gatos,Anual,162.84,Boca a boca
+2024-05-31 18:01:05,b2907bd5-fdea-44fc-8754-0ab4a6762a36,True,Cães,Mensal,67.08,Twitter
+2024-01-15 05:34:22,e3a2ee8d-453d-4a37-b515-de846ced3f44,True,Gatos,Anual,289.19,Instagram
+2024-05-16 04:39:19,481eee83-1d5e-4bd9-af83-5ec12e76203d,True,Cães,Semanal,107.32,Facebook
+2024-04-21 14:53:01,0fe0ea12-4d40-44dd-86d1-96742a821750,True,Gatos,Semestral,141.18,Facebook
+2024-06-07 20:21:24,35acf55b-9c21-493f-9ceb-11f8c3ae0d1c,True,Cães,Mensal,66.32,Google
+2024-02-26 22:47:13,6b7483d4-dd1d-4a1b-9dbf-f58fb9541c6f,False,Aves,Semestral,154.5,Boca a boca
+2024-05-30 00:51:22,9ee9ba04-03e3-4a91-a5a7-aa33d81c877b,False,Gatos,Semestral,180.0,Boca a boca
+2024-06-10 03:45:58,dbf98659-055d-4acd-aa22-ff571dc81f90,False,Gatos,Mensal,112.18,Boca a boca
+2024-02-08 11:17:55,76b78a01-d88e-498a-9273-5b647a91a7b9,False,Cães,Semestral,113.65,Google
+2024-05-13 12:48:18,170b9d7b-3b6c-4ec2-ab62-4db4030e924b,False,Gatos,Mensal,120.58,Instagram
+2024-03-18 05:49:41,31cd2040-0e56-4b0c-a2cd-435ae4b96e49,False,Gatos,Semestral,90.25,Instagram
+2024-03-18 16:49:21,b5a95fff-73a1-4aa4-aa39-3cddb5774094,True,Aves,Semanal,170.31,Twitter
+2024-01-13 22:57:41,526c5127-784b-435c-b6d1-3f456db20961,False,Gatos,Semestral,110.42,Instagram
+2024-02-16 21:57:16,3956648d-a28e-434d-83a3-d883ec988fc5,True,Cães,Semanal,44.35,Twitter
+2024-02-04 05:45:12,59d408c5-d6f9-418d-8402-3623282be5fc,True,Peixes,Anual,77.99,Google
+2024-03-02 01:50:41,9aedbc99-f190-42f8-9679-384685562c0b,True,Aves,Semestral,159.11,Google
+2024-01-10 21:06:03,16b83dc4-5ee9-47ff-8d09-4f8fd4c7baf1,True,Cães,Semanal,265.61,Instagram
+2024-05-18 13:41:35,a5ff60bd-81ac-4e73-a115-d4bd70372fb2,True,Cães,Mensal,122.2,Boca a boca
+2024-03-14 02:02:40,76756288-7592-40d2-94d7-eb9c921f3ba0,False,Cães,Semanal,73.22,Twitter
+2024-03-22 21:46:32,26648667-0aee-47af-8a1c-650d481d0030,True,Cães,Semanal,103.43,Facebook
+2024-04-19 23:18:03,3aaf18e6-425c-48e9-b7b7-91a5341d81be,False,Gatos,Anual,289.09,Boca a boca
+2024-04-09 21:28:39,3714930f-6b63-40a0-a9d9-a3fcf120f761,True,Aves,Mensal,274.19,Google
+2024-03-06 05:35:02,988ce335-86c3-4fd6-a6b6-65fec3ec122e,True,Aves,Mensal,152.22,Instagram
+2024-03-31 16:26:12,9a2bba9c-a494-4a6c-bff4-eff9b30f3015,False,Aves,Mensal,33.14,Google
+2024-01-13 12:19:26,e4fba8dc-dd48-4a7c-87ab-c2d7894f237b,True,Aves,Semanal,255.85,Instagram
+2024-02-22 11:11:13,0699dbda-4bd0-403e-a4fb-00fdcdd8f098,True,Cães,Semestral,216.14,Facebook
+2024-01-21 08:34:23,65c572b2-e47e-4e7f-9e8f-2915d91c3b45,False,Peixes,Anual,42.76,Boca a boca
+2024-02-13 18:50:42,53eedb81-a4e5-4c35-9e4e-e72590084c1a,True,Cães,Mensal,72.24,Google
+2024-01-19 16:48:20,d3d48fbb-4a56-412a-a28b-9fd23b863d7d,True,Gatos,Semanal,161.93,Boca a boca
+2024-03-27 21:09:26,fa946e42-08eb-464d-9b0b-0ae6f9bcc79c,False,Aves,Anual,118.29,Google
+2024-04-13 03:22:09,d5925ce7-eade-40e1-8a96-85030d335ad0,False,Cães,Anual,105.32,Instagram
+2024-03-27 20:51:44,2f570d88-f843-4296-b432-cbb1983f5c3b,True,Aves,Semanal,201.61,Twitter
+2024-03-08 08:40:29,2e278ac2-df52-471c-8673-48ffd0dd8aa8,True,Aves,Semestral,168.67,Twitter
+2024-05-08 22:22:37,5b65680e-9b37-4f05-9c08-24b08627d6a3,False,Aves,Anual,197.9,Google
+2024-05-16 06:54:44,dc0cef91-58d8-4935-924c-83992bfb7047,True,Gatos,Semanal,39.97,Instagram
+2024-01-13 10:52:56,1e5936e8-95d7-4f16-a633-c9ddcdb626a2,False,Gatos,Semestral,182.68,Facebook
+2024-01-28 02:03:41,af1ed076-3fdc-4820-9e53-9ab9e4b4c120,True,Cães,Semestral,222.68,Google
+2024-01-05 19:25:55,02b630c7-2f1d-446f-b60f-1ea92459d6bb,False,Aves,Mensal,229.77,Instagram
+2024-06-02 03:28:40,c841e058-d1a0-4dc7-a8bb-0976ec92cc54,False,Aves,Anual,41.18,Boca a boca
+2024-01-26 05:41:52,5a7e6f6b-a17a-42a5-ac78-a4a470d16fd9,False,Cães,Mensal,270.72,Instagram
+2024-01-10 22:19:52,0fccc3b9-64d2-4f56-9659-5d4aac2f5bd2,False,Cães,Anual,211.77,Facebook
+2024-01-23 00:07:01,e38bcff0-d9f8-4213-beb8-a28c4e4ae993,False,Cães,Semanal,260.2,Twitter
+2024-05-08 21:24:03,34986c70-5d4c-4795-8a5d-d40aa03f4152,True,Peixes,Anual,52.58,Facebook
+2024-03-27 00:36:07,63341ef1-b0e6-40d6-b549-b645c72905f4,False,Aves,Anual,210.8,Instagram
+2024-06-09 14:14:58,79fc9f40-85fe-4746-b458-143ee1c5e93e,True,Cães,Anual,270.58,Google
+2024-03-06 07:07:21,2a80329b-30f3-4427-8d37-f634332b6150,False,Peixes,Anual,42.63,Twitter
+2024-04-01 19:20:08,2686133b-9ab1-415e-8362-3f06d6493562,False,Aves,Anual,74.58,Twitter
+2024-02-18 21:37:11,6583337e-33be-4578-9eba-a10ee2ae0d29,True,Cães,Semanal,238.05,Instagram
+2024-06-04 00:41:38,16c7e737-1b37-43cb-bbbd-dafefef87848,False,Aves,Semestral,149.79,Google
+2024-03-25 06:58:17,cbd2f33e-3988-4404-9de4-6ecc24eb9ea9,False,Gatos,Anual,206.39,Google
+2024-01-19 11:23:36,6ac0f8a2-9426-497b-a0d1-01c63ffa964a,False,Cães,Anual,227.53,Google
+2024-03-01 11:24:20,071965ef-d58d-45bc-9790-f68078209f20,False,Cães,Semanal,238.12,Twitter
+2024-03-07 16:53:42,4a44d0e3-eca6-439d-a0f5-272e3782d280,False,Gatos,Semestral,223.43,Instagram
+2024-02-20 22:37:11,b7e919f5-1073-4deb-ba36-9556a8db9330,True,Peixes,Semanal,134.15,Facebook
+2024-04-29 18:39:10,fd4b1f16-6926-4395-93bf-a3fafb7a8712,True,Cães,Semestral,142.39,Instagram
+2024-04-06 18:55:38,be1ea3ce-a1a8-4e44-81f5-1033edf0cb67,False,Aves,Anual,244.59,Facebook
+2024-05-12 13:33:02,f75f1e8c-e26c-40c9-9497-149a3907f60b,True,Peixes,Anual,182.47,Boca a boca
+2024-01-03 13:49:31,b42c5fd5-fa36-4d67-8a83-5ab1f9e7f5a2,True,Gatos,Semestral,278.75,Facebook
+2024-01-25 00:25:58,76d537ef-4534-488f-a748-7c6c141c581c,True,Aves,Semestral,91.15,Facebook
+2024-02-09 05:13:44,b8363a5e-b8a8-4c76-ab55-b68a616aab5d,True,Cães,Semestral,30.38,Boca a boca
+2024-01-07 07:05:59,918dfe9b-c183-4118-81f4-d4f3d181bf65,True,Aves,Mensal,88.74,Google
+2024-02-22 07:14:13,815ac704-7adb-4441-bfb2-48e3cca60efb,True,Aves,Anual,296.49,Google
+2024-05-23 18:48:53,fdeed632-80a1-4ae2-94dc-fac0b5e28529,False,Aves,Mensal,189.66,Google
+2024-03-13 11:18:51,5054491e-4ff4-426f-a281-516c5526ab4f,False,Aves,Semanal,207.94,Google
+2024-04-22 02:57:50,06efae4a-6a51-491a-8cdd-66e37006c9d5,True,Gatos,Semestral,256.62,Facebook
+2024-01-12 09:14:51,999d1123-e964-4db8-aed4-d52eff673d90,False,Aves,Anual,220.85,Instagram
+2024-06-03 23:37:52,9d27a8ad-a416-4e29-a75e-eebc6573fb88,True,Gatos,Mensal,293.32,Boca a boca
+2024-03-27 00:25:01,39df05fa-9687-4d2e-8efa-6e0e56044b70,False,Gatos,Semanal,63.03,Boca a boca
+2024-05-20 06:46:06,d28d4a3b-956f-4a96-9269-227d09dd4edd,True,Peixes,Semanal,287.92,Boca a boca
+2024-05-17 15:56:35,2619e52f-f841-4bea-8b88-0b12b27a64e8,True,Peixes,Anual,229.71,Twitter
+2024-04-04 01:50:33,d8f98e68-50ff-4013-a7ca-82e44b21b641,True,Cães,Anual,237.16,Instagram
+2024-02-22 08:20:14,65758540-ee3d-45a5-83fc-0f9fc2b1b4cf,False,Aves,Semestral,31.09,Twitter
+2024-04-09 08:42:30,4dad918d-ed9b-46b8-a690-450b33cccad7,True,Aves,Anual,174.54,Twitter
+2024-02-27 23:07:54,4e3d9359-be94-4583-8991-67069f1ee206,False,Aves,Anual,287.11,Instagram
+2024-05-30 18:34:43,539d8678-66d0-4ab6-b7ff-eebeda112a26,False,Cães,Mensal,145.07,Boca a boca
+2024-05-18 23:12:00,b2e97a77-9d0e-40c1-b7d6-81af9f8ff8b9,True,Peixes,Semanal,95.66,Google
+2024-04-07 08:18:33,6d7afa45-fbf6-4ea3-9676-56ed104974ab,False,Aves,Semanal,153.03,Twitter
+2024-01-27 07:59:05,03d22c57-945d-494d-8948-3a0f5078d6a4,True,Gatos,Semanal,24.17,Twitter
+2024-02-24 00:55:18,a328ca27-7936-47b9-9e90-63c9fda3bbe4,False,Aves,Semestral,124.88,Boca a boca
+2024-01-19 23:47:17,c593ef32-1156-4fd6-bcd5-07d11886309b,True,Peixes,Anual,198.26,Google
+2024-05-25 17:04:15,85c458ba-dab4-43c4-a23e-c58d81e80382,False,Aves,Semestral,253.37,Instagram
+2024-02-03 11:40:56,191d1f0d-38f6-453e-9fc9-4ebddc18b8fe,True,Gatos,Anual,52.57,Facebook
+2024-03-27 07:02:17,2af3d67e-8af9-4814-9485-ae2c06855053,False,Aves,Anual,239.91,Boca a boca
+2024-05-03 15:49:02,f0c2ae0a-a3ad-42ca-867b-3ef6a9be54f3,False,Aves,Mensal,244.12,Facebook
+2024-01-18 19:54:49,b1e3e50b-d8e4-4320-9683-568804b32649,True,Aves,Semanal,269.1,Twitter
+2024-05-28 15:24:52,2d3f7e1c-e6b7-4ef2-a54a-725aedf7b600,False,Peixes,Semestral,228.17,Google
+2024-05-05 02:50:22,510b9951-eafc-4f3c-8769-b8dc65aea5bd,True,Aves,Anual,230.77,Boca a boca
+2024-02-02 17:16:34,189adccf-470f-49cc-b1be-cd649618b5f3,False,Peixes,Semestral,73.13,Google
+2024-01-16 23:44:51,e5cfd31b-e828-4ecf-967e-f44dabd76597,True,Cães,Mensal,298.75,Boca a boca
+2024-04-01 15:30:46,94596494-b287-4a20-90f7-634d5218d474,False,Cães,Semestral,215.15,Boca a boca
+2024-03-04 11:01:30,5bbc680b-5871-422a-bdcf-5a9785e6b678,False,Aves,Mensal,241.14,Google
+2024-05-07 15:21:23,3edba0b6-e7c7-4816-8bd9-ee9bceda3bcc,True,Cães,Semanal,245.23,Facebook
+2024-01-04 01:34:21,82bcaad5-3b0e-4e1c-943a-3d75fe9a9c6b,True,Aves,Anual,247.81,Boca a boca
+2024-04-27 20:53:14,737a61a9-6f48-44de-b3d0-6b5413d43041,True,Gatos,Anual,22.77,Google
+2024-02-29 14:32:17,c22deb0e-3fdd-4435-bc1b-5ca0e138d2e8,False,Peixes,Semestral,239.31,Twitter
+2024-05-18 15:05:04,7afae7f9-44f9-4677-b19b-69824694f3eb,True,Peixes,Anual,243.65,Boca a boca
+2024-01-26 11:34:47,26dd9501-ee78-41f8-887a-59904718ec93,True,Aves,Anual,264.1,Google
+2024-02-16 12:07:51,149fc780-fb0b-46a7-ba6b-79dcfe91e975,True,Peixes,Semestral,194.53,Facebook
+2024-06-10 19:21:19,85938d55-d73e-46f7-a635-d2ada6747099,False,Gatos,Anual,253.62,Instagram
+2024-04-06 00:37:47,fd548de2-83df-42a1-a442-63632e8045d4,True,Aves,Semanal,214.02,Instagram
+2024-03-25 07:37:10,942d8b1e-a55c-4b7a-a0e5-e1590b83630f,True,Aves,Anual,274.74,Twitter
+2024-06-08 22:32:21,a62323eb-aed3-4348-bf8b-8d9cf0fbe831,False,Cães,Semestral,47.54,Instagram
+2024-03-08 20:42:40,b916fb65-6d31-453c-aace-17054c57aafa,False,Cães,Semestral,273.6,Facebook
+2024-04-05 15:48:24,b50611e9-a40c-4eed-aaf5-00f3164c9665,False,Aves,Mensal,124.53,Google
+2024-01-23 13:08:55,a2ed6329-ee0e-432c-86af-5a8964c04e7e,True,Gatos,Semestral,84.73,Instagram
+2024-03-23 00:34:23,dcda4c9d-4717-4b64-b6ef-f7b0515eacce,True,Peixes,Anual,299.51,Facebook
+2024-04-13 20:08:33,e42aa9f0-42ec-4d0a-914a-419c887c8973,True,Peixes,Anual,36.0,Boca a boca
+2024-04-16 08:19:39,b64d9b34-2ea4-4f10-b9f6-3babd98c89b7,True,Cães,Mensal,259.69,Facebook
+2024-01-02 02:51:59,c2bd6d04-0c63-4a40-b384-a0dbb874ed1a,False,Gatos,Semestral,257.96,Facebook
+2024-03-24 02:41:14,406b47e3-121c-4b8a-a906-cfc31ec32ce7,False,Cães,Semanal,184.74,Boca a boca
+2024-02-05 12:51:47,59323b9f-3cc4-41f5-b406-ac84ab69acba,True,Peixes,Mensal,127.65,Twitter
+2024-02-06 06:29:58,40b1b448-5cee-4e8a-b3fa-e41df3df28c6,False,Gatos,Semestral,290.69,Boca a boca
+2024-04-08 11:05:37,485c8fec-db93-4486-95a5-09574a4f0d35,True,Aves,Semestral,194.75,Twitter
+2024-04-28 07:14:55,88c02d94-b01c-42b2-b151-06089a31ef5e,True,Cães,Mensal,189.42,Twitter
+2024-02-12 15:36:21,2405c488-65b7-4bed-9d4f-76d717c1b3e0,True,Gatos,Semanal,57.83,Google
+2024-03-20 20:33:58,1b2204dd-d896-4e05-82f6-4c7e7035f050,True,Aves,Mensal,131.41,Twitter
+2024-03-29 09:50:59,795ec556-ffd7-4188-a45a-ab5abb73fd65,True,Peixes,Mensal,122.74,Facebook
+2024-04-27 13:10:38,0f791526-3f0a-47ad-a9f5-8e09fa81ecf4,False,Aves,Mensal,128.18,Google
+2024-05-09 03:05:40,903e43cc-02c3-4149-bd6b-62a64ef45456,True,Gatos,Semestral,49.41,Instagram
+2024-04-16 06:47:07,efec01da-42b8-4baa-b06a-9c750f66bed3,False,Peixes,Semanal,24.28,Facebook
+2024-01-08 09:59:29,238a36f3-3576-428c-b96a-5152846ca916,True,Gatos,Semanal,76.16,Twitter
+2024-05-14 17:40:58,1750ce0f-3b2d-4555-a356-097edd7f1949,True,Aves,Semestral,150.55,Facebook
+2024-04-13 18:11:18,4b65df39-71c6-4947-8a26-10316a7d261b,True,Peixes,Semestral,252.52,Instagram
+2024-01-08 11:19:11,da155185-df35-44d5-ba32-60274a57f1a9,True,Peixes,Anual,244.57,Instagram
+2024-02-22 10:58:07,421260d5-e473-47d9-a04b-f8ad5a4da687,True,Peixes,Anual,272.98,Boca a boca
+2024-05-04 20:42:44,6101c577-f185-471b-98b9-02a55091e9f3,True,Cães,Anual,223.37,Twitter
+2024-04-06 06:17:50,7b035266-d338-43b0-84cc-235d54285fd3,False,Gatos,Mensal,101.77,Boca a boca
+2024-03-19 17:24:09,1a4871f1-c08d-4c5e-94af-7bbc1f9a6e7f,False,Aves,Semanal,172.81,Google
+2024-03-31 22:00:57,bcc8c49d-72f5-4a55-910c-be73a943a182,True,Peixes,Mensal,142.55,Facebook
+2024-04-05 23:21:25,284c536c-d0ae-4c01-b646-bd0e7675a93d,True,Peixes,Semanal,119.61,Instagram
+2024-04-16 04:43:52,49fe8c54-2f1b-4369-a33d-7716a52f4a18,False,Gatos,Anual,256.93,Facebook
+2024-02-01 11:48:54,4cc9a3da-ee66-47dd-aeca-43739bb0767d,True,Peixes,Anual,210.24,Facebook
+2024-02-16 15:23:32,6e60b1f2-b101-46ac-9daa-9c6a0ec95868,False,Peixes,Semestral,210.11,Boca a boca
+2024-01-06 13:41:30,bc704c91-3fea-4203-a9ce-96570ac6e95b,False,Peixes,Mensal,62.65,Instagram
+2024-01-21 18:26:32,ba6aebc7-e185-403b-bf01-b5bdd5c3c5b4,True,Peixes,Semanal,230.57,Twitter
+2024-02-05 07:01:58,03403295-efc5-4b1d-b176-d9630c7544ab,True,Cães,Anual,158.94,Google
+2024-03-28 20:18:19,82c6c0b9-3e1c-4c34-bb41-806b6a772d83,True,Cães,Anual,178.52,Instagram
+2024-05-16 15:53:33,40537c62-22ef-490c-a8fc-7db154215173,False,Peixes,Semestral,233.55,Facebook
+2024-03-26 09:42:19,d359056e-c4a3-4a11-92d9-b77feba64b25,True,Gatos,Semanal,89.47,Facebook
+2024-05-07 02:12:36,ec557984-1f56-42d0-88c1-27c9015c3141,False,Aves,Semestral,44.84,Boca a boca
+2024-01-29 19:57:01,76d56c05-aaf0-4020-9af8-7d0b5975c8f6,True,Aves,Semestral,151.09,Facebook
+2024-04-20 04:51:19,00e69f5c-ddda-45be-aaca-6275fc4b0c1a,True,Cães,Anual,77.7,Boca a boca
+2024-02-18 19:52:59,0d02314c-7e72-4527-b858-b9a2516611fb,False,Gatos,Mensal,251.09,Boca a boca
+2024-03-11 01:59:46,1bf0d2ef-d0d1-4d96-a3b8-787469d16972,False,Gatos,Semestral,92.15,Facebook
+2024-02-15 17:22:11,df0efd34-6cb4-4a83-881b-08d66cb5f24d,True,Cães,Semestral,37.79,Google
+2024-05-27 20:42:50,49a282df-2ef9-4b73-9660-e0f57bbad14f,False,Aves,Semanal,48.19,Twitter
+2024-06-05 13:07:39,1bfb1ec8-659d-4ef4-a94d-05ad304e69f7,False,Aves,Semanal,55.33,Instagram
+2024-02-17 09:30:54,5b269f00-3a3a-4228-abbf-79fed936a4cb,False,Gatos,Semestral,251.62,Boca a boca
+2024-02-02 11:40:19,a5d964ee-6c5f-4229-849a-c7272d746e83,False,Peixes,Semestral,173.33,Instagram
+2024-06-01 03:33:14,4458372f-0fd8-412f-8e11-ab2b8d5095af,True,Aves,Anual,103.39,Facebook
+2024-05-12 10:59:05,a2b83f3f-d2fb-493d-a3a7-9b26eb661f30,False,Aves,Anual,180.65,Google
+2024-04-11 07:32:15,e54d3908-ff45-41c0-9657-6ef36f06b847,False,Gatos,Semanal,273.57,Google
+2024-05-05 10:37:04,cc36b2b3-9109-42cd-9e1b-36af84198501,True,Peixes,Semestral,187.52,Facebook
+2024-03-07 10:36:54,621ef5b7-3bfa-44b1-ba7e-edba1d5f74c7,True,Gatos,Mensal,226.75,Twitter
+2024-04-28 05:35:26,42129772-5947-466f-bec9-d56e32f974fc,False,Peixes,Mensal,245.59,Facebook
+2024-02-11 01:21:07,a5ccfb5b-2814-4146-88c9-e9114414547d,True,Peixes,Semestral,108.15,Twitter
+2024-02-29 19:01:34,6ba8d4fa-6087-4827-a466-ca454165ca93,False,Aves,Semanal,96.65,Boca a boca
+2024-04-01 21:41:00,73e5606f-07ca-48dc-9c7b-e1c61577459d,True,Peixes,Semestral,297.4,Boca a boca
+2024-05-13 18:19:58,e2a8f3bd-4eaf-468a-9530-1f3e84559cf2,True,Cães,Mensal,289.72,Twitter
+2024-04-28 07:57:42,b9eb2bfe-b63b-4192-8a17-c33a87bea7b9,False,Cães,Semestral,199.72,Boca a boca
+2024-04-21 12:46:49,d8b1a1b6-4971-4ba5-a563-8c6de478b8b1,False,Peixes,Semanal,74.32,Boca a boca
+2024-04-03 04:14:01,9d759a7a-defa-45a1-9318-9a8e9b6741c2,True,Gatos,Semestral,249.31,Twitter
+2024-06-06 02:18:53,377d470b-cd66-4ee4-bcdb-e5aa06d04e92,False,Aves,Anual,280.28,Boca a boca
+2024-03-09 22:39:56,8cfb2524-3d00-4b60-8bbb-5b5b438e7202,False,Aves,Mensal,181.53,Boca a boca
+2024-03-30 11:43:26,53fc6bf5-4318-41fe-8dfe-1d1b78f62d5e,True,Peixes,Mensal,215.9,Twitter
+2024-03-19 12:16:35,e841167d-2329-4034-95d9-f862113b2f8b,True,Gatos,Anual,105.04,Boca a boca
+2024-04-30 07:52:04,c06850de-3c4c-477a-8c89-64236b521ae2,True,Peixes,Semanal,25.23,Twitter
+2024-04-30 16:25:52,7c08f63c-8dd3-42ad-8015-dce773d1efd1,True,Gatos,Semestral,276.02,Boca a boca
+2024-05-08 15:20:17,aa4b7785-9fa2-4c52-9808-50943e29af18,False,Peixes,Mensal,263.24,Instagram
+2024-04-27 19:00:37,2de348d1-3dc6-46af-bf0f-81d6c496c9ee,True,Aves,Semanal,216.2,Google
+2024-05-18 20:15:40,aeadce94-dc8b-4e97-9304-1cad0f1f8783,True,Gatos,Semanal,226.67,Instagram
+2024-05-05 21:57:46,885bace2-fb19-46de-9770-651260d27e15,False,Gatos,Semanal,77.32,Instagram
+2024-06-04 06:56:10,fd8538c7-68a3-49c1-bdc3-5632b8de109b,True,Peixes,Anual,121.18,Instagram
+2024-01-30 10:19:00,91551052-2bdc-40de-9080-0c1855d65d45,True,Peixes,Semanal,276.58,Google
+2024-02-12 18:38:46,11383237-62db-41cd-a80c-49379e0474e1,False,Cães,Semestral,67.7,Facebook
+2024-02-11 20:46:42,38f1ac63-d0cc-4cc6-909e-071dc29ad356,True,Gatos,Mensal,178.34,Google
+2024-01-02 07:13:11,8ed6a66c-00b5-4523-b8f9-fc85b0849f23,False,Peixes,Mensal,62.7,Boca a boca
+2024-02-27 17:53:38,0333ffb9-2352-4920-8a79-8c73b1431254,True,Cães,Mensal,286.87,Instagram
+2024-01-07 00:09:02,2d058c2e-6e6b-474a-b9bf-a34248cb3970,False,Cães,Semestral,44.89,Facebook
+2024-01-25 12:09:51,44e7efd8-fb00-4de2-bf23-4653447a9fed,False,Peixes,Semanal,81.92,Google
+2024-05-28 16:11:27,85e88919-46b8-46df-8ffa-b7f156dd3a8b,True,Aves,Mensal,224.92,Facebook
+2024-01-10 20:45:01,64c277af-e7f6-4cdb-92d3-739459d412eb,False,Aves,Semestral,29.37,Google
+2024-01-07 14:34:59,faa59135-6399-40f0-96b5-c82eab01ac90,True,Aves,Semanal,111.22,Twitter
+2024-06-01 13:28:40,007bc000-bd02-48db-91cc-8dc2322e4b3e,True,Cães,Mensal,208.1,Google
+2024-02-14 23:19:22,4f546d77-44c1-4a74-afc4-dedacf46d2fe,True,Peixes,Anual,176.68,Twitter
+2024-03-16 23:14:07,104b797c-c8fb-4822-a27d-e98c6b9dda8c,True,Aves,Anual,103.34,Facebook
+2024-04-19 06:48:18,4b3814ce-51e0-4c4f-a51e-31c672436315,True,Cães,Semestral,150.39,Instagram
+2024-04-03 12:47:13,bc99a538-00c8-4877-b846-c4343cb12eeb,True,Gatos,Semanal,95.02,Twitter
+2024-02-03 21:27:07,f122d487-89b5-47a9-8e57-97b51ea66e50,True,Aves,Mensal,156.98,Google
+2024-06-01 18:29:08,43854a17-93ad-442a-8908-3c4a174d06c3,True,Cães,Semestral,295.89,Facebook
+2024-03-18 15:01:10,0df1a89f-d030-4f48-9e63-98696817706d,False,Peixes,Mensal,239.94,Google
+2024-05-20 19:23:44,a50433b1-7a94-4b8e-8f23-e32aaa2b99d6,False,Aves,Semestral,81.79,Instagram
+2024-02-28 17:30:53,0a409318-82ce-4627-b7c9-be7cf0738bbd,False,Aves,Semanal,264.41,Facebook
+2024-01-31 12:32:40,14d466f6-c755-4168-8a98-e6c18a865d0f,False,Cães,Anual,216.4,Google
+2024-05-01 12:48:54,9860622b-91d4-446e-92fb-ad57f72587eb,False,Cães,Semanal,295.23,Twitter
+2024-03-26 22:22:54,d1ffa945-b45e-481c-86c8-d336362c5856,False,Aves,Semanal,151.24,Boca a boca
+2024-05-01 15:30:28,cd6565fb-9b5c-41aa-9b70-85214d55428b,False,Cães,Mensal,90.86,Boca a boca
+2024-02-05 16:31:40,d9d3c492-fdec-41c2-8f05-e22bf45985fb,False,Aves,Mensal,106.57,Boca a boca
+2024-04-09 21:38:31,fbb7acd0-aeff-41f1-ae15-20aea56e52db,False,Cães,Mensal,111.14,Boca a boca
+2024-05-21 22:35:05,f75ad7b7-f89d-4235-b5d2-68780514d3f3,False,Peixes,Mensal,259.34,Google
+2024-01-24 20:38:08,99c61d5c-917b-4d12-92a2-8a566196246b,False,Peixes,Mensal,254.48,Boca a boca
+2024-02-27 18:03:22,9eaa5473-4410-4b2e-92a4-28838abb7bcb,True,Cães,Anual,125.68,Instagram
+2024-01-03 12:44:48,4676db71-0f1f-4abd-a54a-53afabb968a5,True,Cães,Anual,221.01,Twitter
+2024-03-17 09:48:00,182fcaf6-dd62-4aa8-ba1a-bd576a1fa360,True,Aves,Semestral,78.12,Instagram
+2024-01-08 06:53:40,a75a1648-898c-4b69-9e48-78373dda5f66,True,Peixes,Anual,40.99,Google
+2024-01-25 08:56:29,89ad6003-f9f0-4381-8b67-f21d9c5f908c,False,Peixes,Semestral,25.96,Instagram
+2024-01-14 21:33:49,b45e006a-01db-468f-b7ba-80c76398a579,True,Cães,Mensal,226.09,Instagram
+2024-04-23 11:55:22,33ea4d85-02ab-4826-b248-2cbe945ea66a,True,Aves,Mensal,27.66,Twitter
+2024-05-23 10:34:32,ad971261-f38c-4448-97a9-4aa1e8ec4f5d,False,Aves,Semanal,63.51,Instagram
+2024-01-16 08:02:31,7eee9484-4a93-48dd-accf-44876a51dfd9,False,Aves,Mensal,112.19,Boca a boca
+2024-04-06 07:27:36,496536d6-b0a5-4572-b4de-b696c283a806,False,Cães,Semestral,154.13,Facebook
+2024-04-04 12:40:47,71f260e8-d6af-4439-9ce2-7d91f0ed8209,False,Gatos,Anual,90.14,Twitter
+2024-05-16 22:33:42,c6405a77-aebf-4cea-9f74-c43778673025,True,Peixes,Semanal,81.11,Facebook
+2024-05-12 21:37:24,e8373080-4d44-44e7-89e3-9e4274a9463e,False,Gatos,Anual,203.5,Twitter
+2024-01-05 15:22:35,8c19a6a2-dfc9-4ac9-9f02-028fdcb28eab,True,Gatos,Semanal,276.13,Instagram
+2024-02-14 02:20:40,4a453005-4df8-43c9-85ce-087c857a3d8a,True,Cães,Semestral,249.66,Twitter
+2024-03-18 21:11:12,f2d5d773-fc2b-4bf2-ab6e-ea7bdca49d51,False,Aves,Semestral,72.09,Google
+2024-03-06 00:19:51,e8b7e817-0677-4467-b3d3-7db617ec2fc0,True,Peixes,Mensal,114.33,Boca a boca
+2024-02-23 02:41:57,1c37c3e1-bebf-4325-8cd0-2cce4721b5bb,False,Gatos,Semestral,234.71,Twitter
+2024-02-29 14:24:50,2c9fa365-068a-407a-8be8-630ea9b83514,True,Gatos,Semanal,108.41,Twitter
+2024-05-13 21:28:51,5fd595f2-2902-47e2-b769-11bdbcf88161,False,Cães,Semanal,51.29,Boca a boca
+2024-03-25 16:01:41,310fe3ec-7e3b-4a26-be25-2048a9c26799,True,Peixes,Semanal,136.92,Instagram
+2024-01-11 19:13:52,b4f9cb79-1841-448f-87b3-03846e9eddc6,False,Peixes,Semanal,105.64,Twitter
+2024-01-24 16:11:39,18c2ae89-bb2c-4a89-866b-413d68cdeaa3,False,Gatos,Semestral,211.79,Twitter
+2024-05-12 08:45:03,e8c3a319-1a68-44e8-a8ef-0d44b7d78eed,True,Gatos,Anual,236.89,Facebook
+2024-05-13 09:37:26,fc0615ce-0fc2-45ba-94ce-78f40cfa0550,True,Gatos,Anual,168.49,Google
+2024-01-03 06:25:54,daa89d56-92f0-4ebe-adbf-24eed10dba5d,True,Aves,Semestral,48.33,Boca a boca
+2024-04-24 12:09:39,4292c9de-73b7-47d5-9240-aff980f85fe2,False,Gatos,Semanal,158.22,Facebook
+2024-03-30 08:06:08,18c90a3e-c943-411e-a513-82335edc95a7,True,Peixes,Anual,120.53,Twitter
+2024-01-09 02:10:06,2dace58a-3951-4950-8f3d-39fc255b8225,True,Peixes,Mensal,86.52,Google
+2024-04-20 01:40:47,90aa192e-aed6-433d-9663-4bf986d7806d,True,Peixes,Semanal,120.53,Boca a boca
+2024-01-04 00:34:57,6d1d99e2-2fea-42ec-ad1b-c4352009399b,False,Gatos,Semestral,286.34,Twitter
+2024-05-02 21:54:12,8bf4dc22-a7a0-4ffa-9d7d-5f4c60ae93e0,False,Aves,Mensal,220.02,Instagram
+2024-04-07 11:47:06,a49c212c-00d5-4b7d-91fd-bbdc54dd0bab,False,Cães,Anual,246.41,Boca a boca
+2024-05-31 07:22:12,a4e3e0ee-53b6-43ae-b946-5e5f2caf5bf9,True,Cães,Anual,161.44,Instagram
+2024-03-22 22:59:44,67bafae1-6ca4-43a4-8c2a-92db5b71d3ca,True,Gatos,Semanal,159.22,Twitter
+2024-03-01 02:53:36,c6c72571-3177-4e99-9ec5-5b2e8059b2c5,True,Cães,Semanal,144.59,Facebook
+2024-05-03 12:14:36,4f6d1675-1eb3-46a3-9886-615832c29091,True,Cães,Semestral,237.55,Google
+2024-02-28 04:00:46,30799000-10e6-410e-9e67-1223fdaafc8c,True,Peixes,Mensal,159.95,Twitter
+2024-01-06 04:40:24,6c716312-afbf-44a7-b87d-f359a30222f7,True,Aves,Mensal,78.77,Instagram
+2024-03-22 18:00:07,fe95b03d-4ff3-4ed2-b95c-77002b1572e0,False,Peixes,Semanal,281.62,Twitter
+2024-05-12 19:06:22,8b958965-9490-40a6-a5d0-69163bfb8e51,True,Cães,Semanal,175.82,Boca a boca
+2024-04-29 02:34:05,cfe5ec4f-1938-4969-b062-714cfaa27ab8,True,Cães,Mensal,239.05,Instagram
+2024-03-14 21:56:45,c380ee16-3770-4ba1-b194-319531b6f1e0,True,Cães,Anual,47.52,Google
+2024-04-23 19:30:28,0371e095-4fcc-44d9-aaf5-21da22b5d6e1,True,Gatos,Semanal,271.87,Facebook
+2024-01-12 20:19:57,260e2153-896e-4ad5-8b5e-5c13772f9b1a,True,Cães,Anual,167.35,Facebook
+2024-01-02 10:12:24,15b477b8-ec78-479a-8d7f-294c684ed7e9,True,Peixes,Anual,65.22,Boca a boca
+2024-02-03 10:04:38,62e7ab43-a936-462e-b0a5-0317253b8c80,False,Peixes,Semanal,42.09,Google
+2024-03-05 10:54:14,76a49d52-91a3-426c-a5ce-91f767e8e1e5,True,Cães,Semestral,142.29,Twitter
+2024-01-25 20:38:03,73593fab-a8a5-4d93-8769-81c8dc09ff5c,False,Peixes,Semanal,66.96,Boca a boca
+2024-01-20 09:35:15,c416eb80-ef4e-41db-8476-b188c0e3c145,True,Gatos,Semanal,54.24,Facebook
+2024-03-05 11:28:37,a68f7794-fa61-4281-84b8-a2d11c08a050,False,Peixes,Mensal,167.2,Twitter
+2024-03-05 12:09:40,3e01a176-bc59-44be-9409-d4baea897928,True,Gatos,Semestral,178.96,Instagram
+2024-01-26 05:13:31,c570e433-c6f3-4f8d-a54a-5b5d5c038b97,False,Gatos,Semestral,177.59,Twitter
+2024-03-18 11:23:20,d1aea098-96a4-4d17-b6ff-a69a9aba879d,False,Aves,Mensal,102.08,Twitter
+2024-05-19 02:31:59,e72c024a-b4c7-4ede-804a-8bbe656de6c0,True,Peixes,Anual,55.85,Instagram
+2024-06-10 13:24:46,980ad1cb-b573-4577-b202-48c4a592d8d8,True,Peixes,Semestral,109.04,Twitter
+2024-06-10 11:38:32,cd53ef06-c505-479d-b612-f0ff4a8a70e3,False,Peixes,Semestral,153.98,Instagram
+2024-04-17 00:04:30,c9c24440-f791-4cad-8119-b41dd5abaf52,True,Cães,Mensal,178.8,Facebook
+2024-05-26 10:35:20,c9b124e5-014f-4ceb-8be7-04bde17bc604,False,Aves,Semanal,184.01,Google
+2024-03-06 17:50:50,daf33ea0-47a8-4917-8739-ece0db00bd49,False,Cães,Mensal,221.34,Instagram
+2024-05-22 12:40:33,6d4aa07f-33c5-467a-9202-65d3d84a493b,False,Gatos,Anual,288.66,Twitter
+2024-02-22 13:00:48,7d418825-d8fb-45e2-a0b0-0749b8239dab,False,Gatos,Semanal,50.31,Instagram
+2024-04-11 08:08:29,2d0d887d-9ea6-4d0e-9c9d-e7c26cb4c16f,False,Cães,Semestral,72.09,Facebook
+2024-04-27 11:02:13,eac57af5-8b51-40f7-ac2c-db2b94739ae4,True,Gatos,Semestral,170.2,Facebook
+2024-04-01 12:56:02,995aed62-0a89-4953-8d89-ed0f507dbc5c,True,Cães,Semanal,172.77,Instagram
+2024-04-04 18:45:59,2ef83540-9f0e-4b9c-bc45-de43a1454e67,False,Peixes,Mensal,187.34,Boca a boca
+2024-06-04 16:05:42,4dae9e43-6b1c-457a-b654-a45678f9d92e,False,Cães,Semanal,40.96,Boca a boca
+2024-03-17 02:11:22,9e3999db-bc92-418d-bb86-1ec2c7e81d85,False,Peixes,Mensal,199.52,Twitter
+2024-01-29 07:11:41,99f27729-5b84-469d-8639-999873db7732,True,Aves,Anual,132.65,Facebook
+2024-01-17 19:11:03,f38f460a-e1b8-412e-9cb8-749194e558c1,True,Cães,Semanal,143.19,Instagram
+2024-05-17 18:19:43,15c86973-fd8a-4bc5-87b7-458fc283134e,True,Cães,Semestral,255.85,Google
+2024-04-19 03:18:45,fdd96924-2cd7-4128-8123-1fc876dda1d7,False,Peixes,Anual,62.81,Instagram
+2024-04-20 23:27:09,b071a85b-f85d-42ad-b36d-c5d4d42edfd8,True,Aves,Semestral,115.27,Facebook
+2024-05-01 23:03:56,bf7095aa-c758-40cd-8615-258ac3567720,False,Cães,Semestral,123.24,Boca a boca
+2024-04-24 07:25:57,82228ffd-4f44-4724-8c57-a654e5144f48,True,Gatos,Semestral,205.48,Facebook
+2024-03-09 06:46:38,0e803f74-f6c4-4ebb-ac8f-a15311c70201,False,Cães,Semanal,208.43,Facebook
+2024-04-13 02:41:20,aa500d76-ee2b-48a0-93fb-411390b5ad16,True,Peixes,Anual,103.38,Instagram
+2024-05-11 02:28:54,599fb9d1-d020-401e-8faa-7410bd15f891,False,Cães,Anual,150.53,Boca a boca
+2024-01-05 07:46:14,a459d1c5-e4e3-4cff-95ff-226cc8c7f285,True,Gatos,Semestral,136.72,Facebook
+2024-04-22 20:58:43,445fcc6d-97d0-446c-8cb6-314dfd0c5f32,True,Aves,Anual,32.69,Google
+2024-02-04 08:20:53,904fc618-ab2c-40b9-a963-645edddbaa8c,False,Gatos,Semanal,246.76,Boca a boca
+2024-04-02 04:21:27,08e929e1-8664-4485-873b-41bb567ebda6,False,Gatos,Mensal,242.73,Instagram
+2024-04-23 11:30:10,c1182bba-b1c4-44fc-abb9-2392538044a3,True,Peixes,Semanal,41.33,Google
+2024-04-05 05:56:22,68fe6a7f-e4a5-4c44-8afd-6af3827717a5,False,Peixes,Semestral,270.3,Facebook
+2024-02-08 18:30:39,78978576-5b37-4ef7-9e49-4d00406213a9,True,Gatos,Semanal,282.47,Twitter
+2024-02-07 23:30:41,4f339e1c-e43e-4572-8488-3ef82d0a2794,True,Gatos,Mensal,180.35,Google
+2024-01-31 21:07:02,67942458-b1d6-4105-975e-a27d12bc6eee,True,Aves,Semanal,79.33,Instagram
+2024-03-30 08:16:16,e89869d1-8c47-4c01-a779-84be96f31a06,True,Cães,Mensal,155.37,Twitter
+2024-01-03 08:47:04,6cb5ccd3-d66a-4e8a-8eeb-df1457312acd,True,Peixes,Anual,99.74,Instagram
+2024-05-23 16:02:41,1ff09975-d00c-4be6-8be6-a455cc4a5ccf,False,Peixes,Anual,250.68,Instagram
+2024-01-22 21:28:14,ac18e556-b352-4d60-a665-27ac5b9facbf,False,Aves,Mensal,275.3,Google
+2024-04-16 23:38:05,8d92fa03-d4fe-437d-9ade-eb23ddc45d3d,True,Aves,Mensal,213.13,Facebook
+2024-03-07 10:49:25,1f270747-6331-47b7-af6a-a94c14da1bee,True,Gatos,Semanal,198.08,Google
+2024-04-29 13:42:51,fcd67491-8ff5-428f-925c-24444e753809,True,Gatos,Semanal,188.25,Google
+2024-04-26 22:30:22,1aeaeb18-ebf0-46a3-bac4-2844c9b41c22,True,Peixes,Semanal,282.96,Google
+2024-02-06 14:50:47,56276161-e837-46db-905f-b6588c369ed1,False,Cães,Anual,62.89,Twitter
+2024-04-14 02:40:12,70b0f6d2-b8ca-4211-a4ae-8d61f3c26004,False,Gatos,Semanal,262.55,Twitter
+2024-01-25 13:44:27,da845ffb-869d-4221-a547-5d4ed5e153c0,False,Gatos,Semanal,34.08,Instagram
+2024-05-31 00:03:08,cf41b7a4-c671-40e3-a495-8f1a324da043,False,Aves,Mensal,293.78,Instagram
+2024-05-15 05:30:34,046d258e-dc47-4415-8bcc-10900e2fa713,False,Peixes,Mensal,67.93,Boca a boca
+2024-04-25 01:28:06,9ea9ea89-356d-4889-bb1e-2582a4ec11aa,False,Peixes,Semestral,286.48,Twitter
+2024-04-11 20:51:04,ad9b5b16-ba3c-47c4-96d4-ca32ce185274,True,Peixes,Anual,34.28,Facebook
+2024-03-15 23:03:55,01ecc2da-ff32-4cf4-baa6-25fef7b3077e,False,Aves,Anual,244.26,Boca a boca
+2024-01-07 05:49:01,589b7ccd-3eba-4bd1-b6ce-f0cf7cdfae00,True,Peixes,Semestral,125.36,Instagram
+2024-02-10 05:05:30,f1856bc2-cf9c-4c40-affc-659e4a12b2de,False,Aves,Mensal,286.23,Boca a boca
+2024-01-09 14:57:03,b02e387c-1429-49ff-a412-90bfe07b202b,True,Aves,Semestral,169.9,Facebook
+2024-05-07 03:23:40,eaeabb62-aaec-44d3-aa75-4e94658675c7,True,Cães,Mensal,288.12,Boca a boca
+2024-02-23 05:27:02,5b8288a2-0ad6-4494-a1a4-66f7d2b2a2ce,False,Cães,Semestral,103.48,Twitter
+2024-02-07 10:45:19,c425013f-4b2f-43ec-93d8-06f04297e1cf,True,Peixes,Semanal,113.01,Google
+2024-02-23 02:18:22,40accfa4-2233-46d1-8002-f6e7b0be7b07,True,Peixes,Mensal,187.49,Facebook
+2024-06-04 08:50:55,a00adf35-7bef-4e55-bec4-326e0366cbe4,False,Aves,Mensal,260.6,Instagram
+2024-06-01 19:41:21,72817d7c-7951-4394-8f4d-a9bf245b4b5d,True,Peixes,Semanal,137.28,Google
+2024-05-28 11:09:08,6cebfe48-c700-488b-8a5d-57ab0fb388c4,True,Aves,Anual,232.87,Facebook
+2024-04-05 00:25:02,9f91eb77-c968-4e43-af4d-ba96055308df,True,Gatos,Semanal,173.7,Instagram
+2024-05-06 00:25:27,cc991122-338e-4911-929c-13a9acc72275,False,Peixes,Anual,130.98,Facebook
+2024-03-22 13:03:05,7c7f43db-ee22-4705-8ff9-6ffa03e38166,True,Cães,Anual,195.44,Instagram
+2024-04-21 07:48:38,7c710e26-56a5-4faf-b328-98f83c084841,True,Peixes,Semanal,74.23,Instagram
+2024-01-03 10:11:49,9854bc86-d044-4a1f-b4d9-3c2384775d49,False,Cães,Anual,176.4,Instagram
+2024-03-05 16:02:44,e5178276-9067-41a8-825b-a15ad44536a7,True,Aves,Anual,222.2,Facebook
+2024-04-13 14:05:22,15daab65-69a1-4653-881e-143ceae1c46f,False,Peixes,Semanal,98.83,Boca a boca
+2024-02-01 13:33:21,4f866370-3669-47e1-90aa-dff6c1ff7bd5,False,Aves,Semestral,105.09,Boca a boca
+2024-05-29 01:57:19,f484cbc5-2b47-4087-bd22-d584695afab2,False,Peixes,Semestral,166.87,Facebook
+2024-01-17 01:01:43,0126e6d9-541c-47af-8ef4-7607380529a2,True,Aves,Semanal,148.05,Google
+2024-01-14 12:23:22,98eeb3a8-c5db-425c-8c0b-f5e2acaa416b,False,Cães,Semanal,123.73,Instagram
+2024-05-29 05:00:03,3ff5b71b-c5e7-43f1-a701-e34fc2beeac6,True,Gatos,Semanal,102.61,Instagram
+2024-05-15 05:33:21,ee0c5d2b-8a56-49d6-a2c1-9c1ff02f7462,False,Cães,Mensal,72.26,Google
+2024-02-08 18:48:29,ebc8fa03-86a2-4472-a6ad-15ae24697342,False,Gatos,Anual,178.91,Facebook
+2024-01-25 01:56:13,9ca8b352-e2ec-4ba0-a043-cd033a8c96e0,False,Aves,Mensal,247.24,Boca a boca
+2024-03-21 11:40:43,663c82ec-ae2a-461b-8484-6b211df2eda9,False,Gatos,Semestral,79.09,Boca a boca
+2024-04-13 07:50:48,3e0890c6-c366-46ab-8f79-7a50fe7e920a,True,Cães,Anual,133.01,Twitter
+2024-01-01 19:38:14,92364b81-747d-4386-a531-e16d429641b7,True,Aves,Mensal,203.27,Instagram
+2024-05-17 05:37:58,d2edacc9-d15a-48c6-bd4f-c0a191e0a9ed,True,Aves,Mensal,142.01,Facebook
+2024-01-27 22:04:03,071a4ddc-38b6-4003-9bc8-c802a1b84c28,True,Peixes,Semestral,280.74,Facebook
+2024-05-24 23:48:15,90eea856-2c34-43d1-b607-998a8497d31e,True,Gatos,Mensal,110.33,Boca a boca
+2024-03-04 01:34:21,5ca60d03-6f76-435b-9dd8-9271c45273aa,False,Peixes,Mensal,237.55,Instagram
+2024-04-13 20:57:08,d393735a-0948-4339-8104-d73787fb5d2a,True,Gatos,Semanal,258.47,Facebook
+2024-06-08 16:01:58,c6777b4f-e8c9-45c7-bb65-c91b71d810cf,True,Aves,Anual,41.54,Google
+2024-03-22 17:43:32,6cd4dd96-120a-4447-af38-4d7e38f43373,True,Gatos,Semestral,233.4,Instagram
+2024-04-11 13:11:03,9ec26ea4-b3be-47f2-b511-e7558bdb521b,False,Aves,Semestral,222.56,Google
+2024-03-11 17:16:15,954e1fd7-4047-4975-b4b7-1902f2333fa5,True,Cães,Semestral,234.42,Twitter
+2024-04-19 10:46:14,46f0ec8f-c600-46f7-8667-2cfa98a7d22c,False,Peixes,Anual,40.76,Google
+2024-01-06 19:57:55,c33bdd3b-5f0b-4f91-823f-0c2788fb99e5,True,Peixes,Anual,108.15,Google
+2024-04-04 12:24:36,c2cee707-2b87-42f7-89d6-9e23c6979f64,True,Cães,Semestral,113.38,Facebook
+2024-03-05 22:55:25,96ce0ac8-a149-4501-a492-8affd14abca1,True,Cães,Mensal,96.38,Instagram
+2024-02-18 18:10:55,4e3f54f3-c335-43c1-9eb1-589cdd685077,False,Gatos,Semestral,72.02,Instagram
+2024-02-21 09:15:11,7af2fdcf-4d07-498e-a1ee-f280ae5c6481,True,Aves,Anual,47.84,Google
+2024-05-25 09:21:49,b5b1d1ed-174c-4a22-a7b1-c1155a28959e,True,Cães,Anual,65.08,Google
+2024-05-21 23:11:27,f56c0140-0a28-441e-a5b8-96903ad890c4,True,Cães,Anual,268.53,Twitter
+2024-05-19 05:04:18,59bd086f-4c1f-4e08-91d6-6a6093646ff7,False,Peixes,Semanal,122.89,Instagram
+2024-02-15 18:24:07,bf567bef-935b-4a81-a99f-a1d1429d3e85,True,Aves,Mensal,37.25,Instagram
+2024-01-28 17:54:33,1373f7fc-a1cf-41ca-af22-e8ff853179dd,False,Aves,Anual,255.26,Google
+2024-05-11 04:50:52,741965ec-e938-443d-8073-f2bda8eed539,False,Cães,Semanal,54.41,Facebook
+2024-02-05 19:58:25,a748fdaf-6a0f-4e98-81d7-c7bf070aeeb1,False,Peixes,Semanal,80.02,Facebook
+2024-01-21 16:10:21,aab1dd86-3141-47b9-aa46-9a155cfe4e20,True,Peixes,Semanal,35.02,Boca a boca
+2024-01-04 06:34:40,73d27aea-1a14-47e6-8e0a-dfc486a0eb78,False,Aves,Semestral,63.06,Google
+2024-03-10 02:12:21,b0f95d54-40ae-45c0-aa7f-1646bd13f384,False,Cães,Mensal,48.33,Boca a boca
+2024-02-13 04:17:37,d0ef4806-6884-4318-98aa-d5f2d143e5ef,True,Peixes,Semanal,250.3,Boca a boca
+2024-02-29 17:42:15,b34b1d5a-9c86-433d-a99b-cac0b90c0538,True,Peixes,Anual,107.36,Instagram
+2024-02-12 19:33:22,d155f786-d08c-4a24-91b4-3a971f5dddf8,True,Peixes,Semestral,158.58,Google
+2024-06-06 21:49:50,a2a3d3db-c221-4d2f-b431-077828b97feb,False,Cães,Anual,69.0,Boca a boca
+2024-03-07 08:52:04,3f0661dd-4455-42ca-b87d-d9de02f40ca3,True,Peixes,Mensal,250.95,Google
+2024-04-24 21:43:47,90e900f1-a6aa-40be-ba6a-bb483e937711,True,Peixes,Semestral,119.56,Boca a boca
+2024-04-27 19:39:39,cc36e9d1-461e-488f-95df-c4c49aa0634c,False,Peixes,Semanal,190.45,Facebook
+2024-04-22 23:32:23,4ab31728-6c35-421e-b0f7-db8953eb9796,False,Gatos,Semanal,37.74,Google
+2024-04-27 07:10:07,f20d283a-6d95-4831-a901-0d1df3f36df1,False,Aves,Anual,185.69,Instagram
+2024-02-04 19:06:34,14a68198-5261-4260-b203-e5ca053d3ed9,True,Cães,Anual,151.54,Instagram
+2024-01-23 18:34:10,a6d27897-5f6d-4657-9837-5150b4c1f6c3,False,Cães,Mensal,263.42,Google
+2024-05-05 07:40:42,538f6b6b-f451-4610-b3be-33ea033e1465,True,Peixes,Mensal,181.23,Instagram
+2024-05-17 05:54:44,a4b66a4f-a9ae-4af8-bc8e-f4b8915a7ca7,True,Cães,Semestral,97.02,Twitter
+2024-02-25 12:00:01,36c6ea19-a061-43f1-ba1d-f0d8f09ad734,True,Aves,Semanal,151.72,Twitter
+2024-04-09 06:05:36,3d249a78-f586-45b8-9f6e-33104ae62bf2,False,Gatos,Semestral,109.07,Facebook
+2024-01-19 09:09:32,69dc777d-3f27-4ce7-ba80-b86778a34976,False,Aves,Semanal,99.86,Google
+2024-01-27 11:59:37,a57355af-9ed0-4eed-99f5-a48d825761f9,True,Aves,Anual,107.89,Instagram
+2024-03-30 18:47:10,827adabe-027c-4f9a-8618-dd4585a1236e,True,Cães,Anual,42.11,Twitter
+2024-06-05 01:54:24,20d9bc26-f66e-46e0-821a-372d83086c2d,True,Peixes,Semanal,252.66,Boca a boca
+2024-01-27 04:30:12,c4bab14d-9b8c-4d13-b73c-d62f5a2bddfc,False,Cães,Anual,126.11,Facebook
+2024-01-04 23:20:12,d18ff1f0-1a19-43cb-97b3-8e4abfb9333c,False,Peixes,Semestral,22.27,Boca a boca
+2024-05-31 00:32:04,02383c22-539b-4694-859b-32db90f346d4,False,Cães,Semanal,209.69,Boca a boca
+2024-02-10 22:09:42,e7d55e93-7063-42e0-b1b1-949bb671b38a,False,Peixes,Semestral,254.25,Facebook
+2024-02-03 09:19:44,898187df-7f62-48d5-a7eb-2ba2205ea3d2,True,Peixes,Mensal,40.04,Google
+2024-04-05 03:15:01,51c0d9df-0d99-471b-bb7d-4319d09fa5e4,True,Gatos,Semestral,91.79,Boca a boca
+2024-04-09 12:20:33,7cebc8f4-20b6-4835-9dfd-d076d3ebd4bc,False,Aves,Semestral,190.04,Boca a boca
+2024-01-04 16:44:32,24b4e334-0b2c-4117-bea4-703fa34c64c1,True,Cães,Anual,42.04,Google
+2024-04-03 16:18:32,2940fe23-b5af-4a9c-a975-1ae9fbd3a28a,False,Cães,Semanal,21.67,Boca a boca
+2024-02-17 08:26:46,780d503a-f0f3-423d-b8da-4ae6c18b5ca8,False,Peixes,Semestral,221.72,Boca a boca
+2024-03-08 15:48:43,d556444c-3d7d-4ef7-9854-62897ea03f91,True,Gatos,Semanal,153.73,Instagram
+2024-05-12 01:50:04,37949c9b-998f-4135-b744-12a80c1af9f1,False,Aves,Mensal,105.05,Instagram
+2024-03-18 19:50:50,0226f21b-429b-4505-afc1-0ae0b95e83f6,False,Aves,Anual,211.53,Google
+2024-01-20 05:32:04,c6941c43-c7f9-4d49-aa12-dbb0b5fb6d9d,False,Aves,Anual,147.32,Twitter
+2024-01-08 08:19:44,b1c5ac08-d433-4d34-840a-5104dd250d77,False,Gatos,Anual,82.3,Facebook
+2024-04-11 06:54:36,74a55777-a245-41f2-b9f2-d6ef0696a906,True,Aves,Semanal,159.77,Boca a boca
+2024-03-02 11:19:37,b5bfe2a2-f475-4d57-b854-bef1e5c51ff9,False,Aves,Mensal,38.06,Instagram
+2024-04-17 06:48:37,dd5bf6d5-5054-48fc-9577-2038a1546d96,True,Cães,Semestral,28.22,Boca a boca
+2024-05-24 17:39:01,a8aa3fbf-8c2c-4256-897f-b2f1b8aa17b5,True,Gatos,Anual,160.54,Facebook
+2024-03-01 12:20:57,c652d42b-d4bf-4e0b-9ac8-5c9a7975ffce,True,Aves,Semanal,56.86,Twitter
+2024-05-15 11:31:14,90903bd3-d696-4f7d-a2a4-aca3d36f7ae8,True,Aves,Mensal,38.01,Google
+2024-04-09 22:58:36,3762dfd5-2c96-4461-98f8-5852b498ccf1,False,Cães,Anual,46.61,Twitter
+2024-01-03 18:47:07,852c705f-29d2-4055-b9f7-af591dc969bb,False,Peixes,Semestral,123.49,Boca a boca
+2024-01-25 05:03:15,f661b836-29b4-4563-9586-c34ce0cb4662,False,Peixes,Semestral,25.91,Instagram
+2024-04-08 05:17:37,3359530d-025e-4747-9aa6-10e3366090f4,True,Aves,Semanal,268.97,Twitter
+2024-01-18 06:51:55,681eb21e-917f-4b4c-9092-79f9a50979b2,False,Peixes,Semestral,69.33,Facebook
+2024-05-22 03:46:10,fd8f165b-c1d0-4b22-9abd-1fa87a4f2523,True,Peixes,Anual,192.5,Twitter
+2024-03-05 16:21:10,d92c39d9-6d5d-4d59-994e-6a6d6a64df34,True,Gatos,Mensal,261.9,Instagram
+2024-01-11 10:40:38,3634b719-12a7-4495-9d3c-52bcc35a5024,True,Gatos,Mensal,168.66,Twitter
+2024-03-02 17:43:30,d4b8fbfe-ffd5-4f10-9091-d8a4aef79d83,True,Gatos,Semestral,166.98,Instagram
+2024-02-28 21:54:18,e8fd1334-87b2-46a7-ae32-6b87e8f7cc6b,False,Peixes,Semestral,284.23,Boca a boca
+2024-05-12 22:12:35,ed8277fd-fcde-49d6-80ca-3160988691a8,False,Aves,Mensal,238.2,Boca a boca
+2024-04-01 09:56:50,e9bfdbaf-992c-4f90-a966-ab7d50b59e8f,False,Gatos,Semestral,263.0,Twitter
+2024-01-10 07:49:57,9e3421ee-7fc8-446f-ab68-72b8351fef21,False,Cães,Semanal,269.06,Google
+2024-03-13 08:32:33,d516d757-9653-4750-b022-91cc1484bb70,True,Cães,Mensal,98.36,Google
+2024-04-03 12:18:35,017b0a19-9f9a-4805-bd5c-f1c0fc675602,True,Gatos,Semestral,285.04,Google
+2024-04-21 12:27:49,304104f9-5a47-4b2b-aae8-8a458f9aec82,False,Gatos,Semestral,285.5,Google
+2024-03-09 14:04:22,c5aff481-9bae-4d28-82a6-36650f902d40,True,Aves,Semestral,67.33,Boca a boca
+2024-03-30 06:54:52,cf47f307-400d-4e6f-92d3-502061c5f00d,False,Gatos,Mensal,142.54,Boca a boca
+2024-02-28 17:56:09,784014f2-00bb-4aa2-bb30-4dc5257ea692,False,Aves,Semanal,159.86,Twitter
+2024-03-30 10:02:15,d089c37a-2eab-4977-81d8-fa061cc45395,False,Cães,Semestral,109.4,Instagram
+2024-03-29 14:40:10,e22da584-1022-4ee4-8ab1-da8eb16bb70e,False,Peixes,Mensal,280.61,Twitter
+2024-03-26 04:16:55,e824ea54-3b9b-4600-99a5-41580b36bbfe,False,Gatos,Semestral,206.45,Instagram
+2024-04-26 18:57:27,08903175-600a-40d6-8985-12af9735712d,False,Peixes,Anual,141.78,Boca a boca
+2024-01-09 06:06:34,9738970a-4ada-4c01-8bf6-ea24baf9b71d,False,Cães,Mensal,221.85,Google
+2024-01-17 22:51:14,109b3ef9-65a1-4476-aac0-9752e6101046,False,Peixes,Mensal,232.94,Twitter
+2024-03-16 10:50:03,27e244af-9f99-44e9-a9c5-42cacec0458d,False,Cães,Anual,255.52,Google
+2024-03-12 18:33:42,fbf51bb8-ad4c-443f-b26f-95b48963cf33,True,Aves,Mensal,165.02,Facebook
+2024-01-06 16:39:34,33e709f8-2ef9-40f7-b109-c79336bb9f6b,False,Cães,Anual,190.66,Google
+2024-03-11 12:33:26,92916be0-77f3-4f9e-87a6-dfd3495a1191,False,Peixes,Semanal,63.5,Twitter
+2024-04-10 14:34:41,98b5f001-2054-4b0a-96ff-9cc5dfafa86f,True,Aves,Semanal,142.65,Facebook
+2024-04-30 05:44:52,67a2e693-4db7-47cc-905d-ac6d88167eeb,False,Gatos,Semestral,235.77,Boca a boca
+2024-01-21 17:58:03,28f5e983-370b-4213-90dd-71e98645c29a,False,Peixes,Semanal,101.05,Instagram
+2024-02-03 08:59:52,20dee2a8-2d9d-458e-acf0-3f865cc2d9f9,True,Aves,Mensal,257.41,Boca a boca
+2024-03-21 04:58:17,53b5d9e4-ada4-4721-8208-95966439cd70,True,Peixes,Semestral,274.54,Google
+2024-02-12 21:12:21,28f80ca0-a6d4-496f-9e64-d2eff18b6241,False,Aves,Semestral,291.85,Boca a boca
+2024-01-07 22:52:51,730f7fe8-b2ae-43d1-85f3-664b0a6c2141,True,Aves,Semanal,29.95,Boca a boca
+2024-03-24 15:59:58,32a95bdb-f7ea-46e8-8371-fa397de7da66,True,Aves,Semestral,83.58,Twitter
+2024-02-16 18:08:27,a51d86f5-0797-4e2d-bc6c-8ddd691d1bd5,True,Peixes,Semestral,123.11,Google
+2024-05-26 18:22:02,616c5f7c-434a-44d7-b194-b07d18b8cada,True,Gatos,Semestral,113.88,Facebook
+2024-06-07 10:56:35,9cf2ebcd-a80c-4f58-82a7-c29dd062b5df,False,Peixes,Anual,158.34,Facebook
+2024-03-14 17:07:52,1e813b76-0f46-47ab-9c2d-54f6f289b879,False,Aves,Anual,273.17,Google
+2024-01-31 20:27:23,9af40b53-35da-41f4-8e19-853cf2fa014b,True,Cães,Anual,177.5,Google
+2024-05-14 17:14:22,a26c665c-a458-4e26-a547-cc4fbeb9ec50,False,Gatos,Semanal,283.08,Boca a boca
+2024-01-04 10:28:11,c5d935d9-2fc4-4c81-b5c8-f0111ac1c400,True,Aves,Semestral,181.94,Instagram
+2024-03-09 04:54:30,06f14e9d-bdfd-4265-a345-42f267a055dc,True,Cães,Semestral,106.29,Facebook
+2024-03-15 05:03:40,a5f40c24-e402-45d1-9f6b-3aa588e01d85,False,Aves,Mensal,59.75,Twitter
+2024-05-01 21:51:36,170ad921-e32c-4f05-8f28-20daf3237301,False,Peixes,Semanal,81.93,Boca a boca
+2024-04-14 20:39:59,b9dc7c16-aba5-4fac-b912-da9a77da843f,False,Aves,Mensal,45.09,Boca a boca
+2024-04-04 19:16:31,67693b97-e4ae-488f-8a38-6ea5c0e023b6,False,Peixes,Semestral,96.0,Facebook
+2024-03-20 23:44:42,4dd3352f-8f66-413b-af4b-249ead78b03c,True,Gatos,Anual,37.97,Instagram
+2024-05-18 03:18:14,a96fa6de-c068-4602-b51f-18a513b833fb,False,Gatos,Mensal,278.89,Facebook
+2024-01-17 22:52:20,1b89ce4f-0b87-4dcc-bd7d-a0d49c853131,False,Peixes,Semestral,182.51,Twitter
+2024-02-15 16:19:30,16ce65f3-d042-4f53-a79b-2ad1a73cede0,True,Cães,Mensal,167.18,Boca a boca
+2024-05-12 09:23:01,9d2b3832-6f0c-43db-8e45-de0809aaeeef,True,Peixes,Semanal,62.5,Twitter
+2024-02-28 11:45:21,8ef1e9c1-a682-472d-8124-27b26fa77034,True,Cães,Semanal,127.88,Boca a boca
+2024-03-07 19:08:55,0bbe8aef-d77e-475d-b27b-94516416b3ca,True,Aves,Semanal,183.44,Facebook
+2024-01-14 08:40:34,43446e5a-2c87-4c29-b9ae-2f2bf21bea29,False,Aves,Semestral,71.89,Facebook
+2024-01-22 10:22:10,fa666771-53e1-4391-ac1e-d949c69ef004,False,Gatos,Semanal,269.53,Twitter
+2024-02-11 07:07:17,c1d76d20-c436-4a6a-b197-033b3f5fbd65,False,Aves,Semestral,48.04,Boca a boca
+2024-03-23 17:56:44,2a308fe8-07e5-4614-9691-b7614f30d410,False,Cães,Semanal,128.4,Instagram
+2024-05-02 04:39:36,def6fe7d-496f-43d1-bdbc-9ed66dba59c6,True,Aves,Anual,33.09,Google
+2024-02-23 05:21:21,1c608561-ee47-47b0-ab13-21b28da360b6,True,Gatos,Semanal,284.29,Facebook
+2024-03-10 21:35:18,2dfe7b89-16fe-40de-91e5-4ab3e9315320,True,Aves,Anual,172.47,Boca a boca
+2024-06-04 19:17:25,a5bf0d30-cb04-45af-8f62-cf600d9e44e7,True,Peixes,Anual,255.59,Twitter
+2024-01-13 15:54:27,35cacf5f-eb86-4364-b1bd-6f097857b1df,True,Cães,Mensal,280.58,Twitter
+2024-05-31 21:17:29,14dfecb2-bbe5-429b-8861-ac8e6cc11ae4,True,Peixes,Semestral,161.13,Twitter
+2024-02-17 20:01:30,3937ea75-f41c-40e0-93d6-bc8a3b08ec8d,True,Gatos,Anual,45.21,Instagram
+2024-05-22 07:57:29,410e3ad4-b13e-4a3a-a60d-b432757726c0,True,Aves,Semanal,149.8,Instagram
+2024-02-11 09:33:04,5bd09706-00e8-4461-b7ed-283ac45455fb,True,Aves,Semanal,211.99,Instagram
+2024-04-12 01:40:24,4e077047-61a6-4544-aa46-db620db021bd,True,Aves,Semanal,255.1,Google
+2024-03-23 02:33:45,2182f09e-8769-40da-a75d-22c48627e762,False,Aves,Semestral,166.72,Boca a boca
+2024-06-09 01:19:23,107693a4-a581-4380-b0bf-2065a7d92b57,False,Aves,Mensal,110.08,Twitter
+2024-01-29 21:49:06,e9d3d0d5-9e5f-440e-9bbd-57301744bff9,False,Cães,Semanal,33.1,Boca a boca
+2024-01-04 02:22:57,4b2d2f15-73ae-4ec1-83ab-242ce8398520,False,Aves,Semanal,132.73,Facebook
+2024-05-10 13:38:00,c75a3b54-2302-4814-9a89-7bfed9dc30e4,False,Peixes,Semanal,146.17,Boca a boca
+2024-01-19 10:29:11,0617d309-204b-48db-8186-78a2f3dfc8fc,True,Aves,Anual,117.8,Facebook
+2024-03-11 15:52:18,37c73d8f-2762-4fd4-a73d-0ad87228b863,True,Gatos,Semanal,128.62,Twitter
+2024-02-29 06:11:16,c4616470-aa49-4e14-b37b-78b584c00cd8,False,Aves,Anual,289.99,Boca a boca
+2024-03-29 18:43:18,3712b38f-7451-4c10-b8ab-9d1dbf19d911,True,Gatos,Mensal,137.42,Boca a boca
+2024-03-16 20:53:42,d173b5e3-e11c-4d96-8ab4-58a415c9df28,True,Gatos,Semanal,58.74,Instagram
+2024-03-16 00:58:42,c23c503f-b947-409d-bb27-d4ca8724f9fe,False,Cães,Anual,265.45,Twitter
+2024-05-10 12:04:43,69a2b744-9147-49b5-baf5-e30814daccb2,True,Aves,Semestral,252.91,Google
+2024-01-26 10:03:47,4cbcfb24-926a-4bcc-8d00-74525cd309d2,True,Aves,Semestral,298.62,Instagram
+2024-04-27 00:11:08,0c4ec4a2-6ed9-45b3-86d6-3a85cc75bc0b,True,Aves,Semestral,247.25,Google
+2024-06-08 15:54:52,eccfa480-d6d1-400f-8892-6829104dde0c,False,Gatos,Anual,157.61,Google
+2024-02-02 10:54:45,8f851549-1320-4591-b69d-b7eda518c1a2,True,Cães,Anual,200.63,Twitter
+2024-03-07 22:43:47,1d222747-cdd2-4c29-b07e-b424abba14d6,False,Aves,Mensal,125.37,Boca a boca
+2024-05-25 12:02:52,df2bb4eb-e0da-4171-9e85-5e4d62983695,True,Aves,Anual,76.22,Google
+2024-05-21 12:58:28,0b72df9f-b191-4aab-b31f-14d7f01aa991,False,Aves,Semanal,255.79,Boca a boca
+2024-06-05 23:14:38,70aea45c-686e-4b6f-b16d-6042adb007d8,False,Peixes,Mensal,239.51,Instagram
+2024-02-22 08:54:59,de746a34-9da2-49ae-84ac-866f4bb24ba8,False,Aves,Anual,45.35,Instagram
+2024-01-06 12:42:18,0ce10341-99e0-405f-ad48-0c89849aaa60,False,Peixes,Semanal,172.51,Twitter
+2024-01-26 19:26:49,5fd7d27e-5acb-425d-9981-2ac46d8ec265,False,Gatos,Semestral,223.41,Instagram
+2024-01-14 17:02:53,1ad90bfb-19fa-4b30-aad7-f0c9ca15dfec,True,Aves,Mensal,21.21,Twitter
+2024-05-15 13:19:37,b275be4a-b413-426a-9a50-b9d660f1a9b9,False,Peixes,Mensal,86.51,Twitter
+2024-03-29 20:31:33,6aa09173-97df-49c6-aaae-86db4e6399bb,True,Gatos,Semestral,285.36,Instagram
+2024-01-12 03:20:46,d9b0fd90-1bb8-4ebf-af7f-543ee65558c0,False,Cães,Semestral,138.53,Twitter
+2024-03-03 05:22:28,9e396e04-4524-4347-8ef2-6ee4950aa4ae,False,Aves,Mensal,272.12,Twitter
+2024-02-26 15:13:33,5aafe9c8-7602-41e4-8b9a-46aa21bf479d,True,Gatos,Semanal,277.97,Google
+2024-06-10 02:18:55,77a4d152-1ee7-4075-a8c8-38b0a352b354,True,Aves,Mensal,211.01,Google
+2024-04-06 00:51:26,8113e55d-7350-4f6b-9c26-f34bb2b6daf6,False,Peixes,Mensal,90.07,Google
+2024-02-27 16:40:58,c1be1dbb-fe64-4e4b-9d86-8292b7e8d98d,True,Aves,Anual,61.83,Google
+2024-03-17 17:57:56,50480362-b116-4fc6-8fb1-d3ffa96f548f,True,Aves,Mensal,107.73,Boca a boca
+2024-02-18 21:13:54,306fcf04-1524-479e-b061-acf6c0ad0e16,True,Peixes,Mensal,35.32,Boca a boca
+2024-05-26 10:26:46,73916d61-a45e-45c8-be06-7a423fcbcdfd,True,Peixes,Mensal,135.51,Facebook
+2024-04-02 22:36:25,a049b7fa-3af4-4189-b341-c49ae1112dd2,True,Peixes,Semanal,145.78,Google
+2024-05-02 15:50:30,53b27040-668e-44b1-a2ce-41e94e1201bd,True,Aves,Semestral,192.4,Instagram
+2024-01-05 17:38:43,b264569e-f610-4e85-b3e6-89e2759422f8,False,Cães,Semanal,190.39,Instagram
+2024-04-15 09:43:05,70a792de-49c2-4094-924b-bcf8418e78eb,True,Peixes,Semestral,173.15,Twitter
+2024-06-04 15:39:37,f493ace0-752e-4edf-baa7-d248eb83898c,False,Aves,Mensal,195.78,Facebook
+2024-04-08 02:25:41,57224114-06bd-4a0e-8c75-c39913a60062,False,Gatos,Semestral,79.89,Twitter
+2024-02-18 16:22:41,907d85a9-b297-422d-8550-c42081121be6,True,Aves,Mensal,51.14,Twitter
+2024-02-12 16:22:42,453c5be6-9137-4b33-9612-ac820e58083c,False,Aves,Mensal,287.68,Instagram
+2024-05-25 22:00:57,0ac0927b-6b64-4747-8c3d-f1b38d1c6345,False,Peixes,Mensal,87.17,Instagram
+2024-04-11 09:37:22,6a547647-36c5-479f-911c-a616007f58bb,False,Peixes,Semanal,286.34,Google
+2024-03-05 17:16:12,eadb8d3c-046c-4932-9089-3570a30ebdb1,False,Aves,Anual,239.78,Google
+2024-04-14 01:32:30,526a3f4f-315f-4f24-86a1-8e998bdf7897,False,Gatos,Anual,80.87,Facebook
+2024-01-27 10:56:56,3bf95cbe-eae3-4bbc-95b9-d3ea792fab68,True,Aves,Anual,27.95,Facebook
+2024-05-11 02:16:22,9d54a59b-f501-4f59-924a-367096b72526,False,Gatos,Semestral,115.08,Instagram
+2024-04-27 23:09:35,9bab62e5-0f49-425d-a602-a6bbfc650ca0,False,Gatos,Semanal,213.27,Twitter
+2024-05-26 01:23:59,523edf16-1b3c-45d7-abe4-24f190d3b665,False,Cães,Semanal,154.01,Instagram
+2024-04-13 18:20:25,31278326-4449-44d3-bffb-82b8ce547e9a,True,Cães,Anual,132.81,Boca a boca
+2024-05-26 00:19:17,15c3aac0-7f4b-4e39-91e7-89d603c5c737,False,Cães,Semestral,97.45,Facebook
+2024-04-07 11:22:15,ef0fc998-d248-4621-a070-85b25620032d,True,Peixes,Mensal,298.8,Instagram
+2024-04-21 05:48:38,bcb5b188-2c2c-4780-b4e9-3fe5a307a6d7,False,Aves,Mensal,173.62,Instagram
+2024-04-14 00:46:03,288699c9-400f-4fe9-bef4-ec9a20817c8d,False,Peixes,Semanal,216.64,Google
+2024-03-08 07:58:13,efdf0a80-3da6-4cfe-ae21-0f632847d045,True,Cães,Semanal,193.69,Twitter
+2024-01-04 08:41:17,36ca3f2b-e1ef-4f41-8a6a-af185a194357,True,Cães,Mensal,268.37,Twitter
+2024-06-06 14:08:09,28605470-fdfd-41f7-aeb2-0dc5ddb9cf60,True,Aves,Anual,104.65,Boca a boca
+2024-02-13 17:11:42,040f0701-0830-4379-a26d-ceb655dcbe47,False,Aves,Semanal,38.27,Twitter
+2024-06-04 20:40:05,5850eea8-4c1c-4d48-b644-12defa6be5b0,False,Gatos,Semanal,49.04,Facebook
+2024-02-16 17:43:03,a6faf14a-18ee-4abc-8048-80d19980019f,False,Gatos,Anual,36.56,Instagram
+2024-01-29 04:55:53,b4b10946-0758-41e3-a18a-b50ecc6886a1,False,Aves,Anual,172.27,Facebook
+2024-05-26 18:57:01,b7a0eafe-3d48-4a3c-acd0-56b31bfc9e00,False,Aves,Semanal,216.23,Instagram
+2024-01-20 03:06:21,d764ae7c-b0b6-4204-9417-2db78996151b,False,Aves,Anual,175.22,Twitter
+2024-03-06 17:26:00,556b75e9-2320-4b3b-95b1-15906337b60a,False,Gatos,Semanal,277.77,Google
+2024-03-10 18:23:45,58f5477e-9860-41ae-adae-f81514bedb75,True,Cães,Semanal,287.6,Google
+2024-04-15 13:35:53,9a8d25ac-5913-41a2-906e-6f6e224f1e0e,True,Gatos,Anual,121.88,Boca a boca
+2024-02-01 17:16:47,2e7711d9-0386-42b7-937f-870ee5f5e83a,True,Aves,Anual,44.53,Boca a boca
+2024-02-23 23:34:12,19f2114b-3531-4a58-9e6a-c20af5e61a0e,True,Cães,Anual,71.09,Twitter
+2024-01-09 10:35:10,01deee82-56f5-4d1b-8d8f-8751939c3dfd,True,Peixes,Semanal,240.44,Twitter
+2024-01-28 07:03:55,b4e8e757-6f73-4e08-862e-783c444cc8da,True,Cães,Anual,32.16,Boca a boca
+2024-04-29 14:35:15,88b4cfaa-c6f1-4658-943c-55f163a0c0e9,False,Aves,Mensal,142.49,Twitter
+2024-03-17 03:42:09,44bfb9f9-8be6-440f-bcf8-9e5881f1351d,False,Gatos,Mensal,245.44,Instagram
+2024-02-25 00:19:00,bcc153b2-342b-4577-bba6-c5a7fc444895,False,Gatos,Semanal,279.18,Boca a boca
+2024-04-03 11:19:01,10f59d7b-8d5d-42d8-8d17-155e2110071a,False,Cães,Anual,162.81,Boca a boca
+2024-06-05 23:10:41,7f9f5833-4501-4c08-9f7c-f880af46e17d,True,Peixes,Semanal,246.47,Twitter
+2024-01-05 22:17:42,bc00c9be-283c-4f26-880f-b6d41bd78070,True,Cães,Semanal,48.0,Instagram
+2024-03-18 17:07:45,76cc8163-99d0-497e-b35b-096ac2f412fc,True,Peixes,Semestral,148.88,Instagram
+2024-02-28 17:01:54,69037ef1-5b01-4f37-8ecb-da088f5d16f0,False,Peixes,Semanal,181.5,Boca a boca
+2024-04-17 12:07:42,de233549-0143-48fb-980d-f275c1f0aa89,True,Peixes,Semestral,254.13,Instagram
+2024-05-18 12:29:46,192e2b00-bdae-4e53-a4de-73b5c76bffea,True,Gatos,Semestral,250.36,Instagram
+2024-04-15 09:02:13,3a70e38f-484a-4c81-b8ff-1c3ad78c5261,True,Cães,Anual,253.3,Google
+2024-05-27 05:53:39,6873fab0-7b48-4aa4-8b0c-7a35a111a672,False,Cães,Mensal,129.07,Boca a boca
+2024-01-22 00:14:20,70590d74-3e5a-4c4a-af77-8808238c68af,True,Peixes,Semestral,110.5,Twitter
+2024-01-19 17:56:47,5d4ba9f9-d317-4cd4-9ec7-0ab9f8a810e3,False,Aves,Semanal,185.14,Google
+2024-02-25 12:25:27,6a604be7-abbc-4e12-9a90-7283aaa70e1d,True,Cães,Semestral,166.82,Boca a boca
+2024-04-28 22:42:31,801b7f59-7090-44b7-8694-7a03ebeb9a63,False,Aves,Mensal,130.24,Instagram
+2024-04-18 02:53:46,4e7c7afd-5ddf-41f4-bf42-e54c917316b0,True,Gatos,Semanal,214.29,Twitter
+2024-01-18 04:23:51,209a772a-379a-41bb-9f85-4b8a002aebbc,True,Cães,Anual,165.0,Boca a boca
+2024-04-05 22:09:20,d0c5d2af-cdde-4024-97d2-7123c008160b,True,Cães,Anual,274.3,Google
+2024-02-06 03:24:02,98adcd62-5c4f-4b43-a7e9-c50ed7039d40,False,Gatos,Mensal,297.47,Instagram
+2024-05-03 21:04:15,39531094-38a1-4289-b494-65df9239cf5b,False,Cães,Anual,216.42,Instagram
+2024-03-20 13:50:44,c69d0dec-14bf-49c9-a778-f9d26f241caa,True,Aves,Semanal,255.47,Google
+2024-01-13 08:10:58,4e9740cf-113e-4d20-ae74-4ce738ac6570,False,Aves,Semestral,49.45,Google
+2024-05-05 13:25:41,d9409eb8-c114-4fbe-917c-7097620d5565,True,Cães,Semanal,121.79,Boca a boca
+2024-03-19 10:27:23,6daef231-fa7a-491d-aa46-0f7c36994827,False,Peixes,Anual,34.17,Instagram
+2024-03-13 19:16:27,ca6ce18a-7ee2-4ecd-8bd2-d4311df03b23,True,Gatos,Anual,110.18,Facebook
+2024-03-23 00:22:48,802c40c9-2aa8-45a4-b144-1257b9bec7aa,False,Peixes,Semestral,235.77,Facebook
+2024-02-04 10:08:37,a27e6d99-b043-4330-9687-3abd3198aa82,True,Peixes,Semestral,287.06,Boca a boca
+2024-01-09 08:40:05,8496927a-ab31-4bad-bdc4-709704cc8904,True,Peixes,Semanal,56.83,Twitter
+2024-06-05 15:52:58,7bfdb5df-385e-4ef1-949f-b01df5ba07c9,False,Peixes,Anual,68.38,Google
+2024-01-24 20:07:28,7a0aaddc-5a5b-4e20-8dee-9b3a13f4f280,False,Gatos,Anual,135.1,Instagram
+2024-04-19 02:06:26,8c139081-ee0c-45bd-a0ed-f8373d6d0720,False,Aves,Semanal,37.64,Google
+2024-01-08 18:40:51,cdf430a4-f234-4675-b225-e1cbc7b653e4,False,Cães,Anual,153.66,Instagram
+2024-06-05 23:55:19,db7f9dcc-4224-4deb-abe1-5ccf9390473e,False,Cães,Semestral,153.71,Instagram
+2024-01-10 03:13:59,ffbe9de7-0bce-49bb-9beb-d3036eb79d4e,False,Gatos,Mensal,27.38,Facebook
+2024-05-05 14:56:35,727116aa-009e-4399-8d3a-35a5caad3e32,True,Peixes,Semestral,281.35,Twitter
+2024-01-26 05:50:15,bdf36cab-efec-4c35-a5d3-eddfb1dfe59f,False,Gatos,Mensal,179.6,Facebook
+2024-02-10 17:00:48,d05a46d2-b4d9-4fad-97e9-e68a6982ffe3,False,Peixes,Anual,39.43,Instagram
+2024-03-02 12:41:04,0f629b90-0f32-4c71-b048-c8e740dd46a1,False,Cães,Anual,158.71,Boca a boca
+2024-01-11 01:28:22,f8451180-3a14-4602-a216-c1005375969f,True,Peixes,Anual,131.34,Google
+2024-02-09 08:46:20,eb9b3890-e465-4913-bdb2-b6306aaf9992,True,Aves,Semanal,135.05,Instagram
+2024-01-11 11:08:20,eecaeb09-03b4-435a-a477-5227cb2c5ac1,True,Gatos,Mensal,243.98,Google
+2024-06-06 23:42:32,82fd7673-3806-4f73-b249-67504ad011e2,False,Peixes,Anual,67.73,Google
+2024-05-29 20:31:23,d83c8ac8-700b-407c-958a-87a57a2b80de,False,Peixes,Semestral,260.32,Facebook
+2024-04-15 00:59:28,51215e27-c130-4533-b143-6735bd2d01db,False,Cães,Anual,76.38,Google
+2024-06-04 12:29:21,eb7b6a05-b46f-49f8-8a90-a20a484fd233,True,Aves,Semanal,99.74,Boca a boca
+2024-05-09 23:24:56,e7097bc6-ef4a-43a9-abbd-74153b4c90cd,True,Aves,Semestral,169.79,Instagram
+2024-05-13 04:55:05,70f30312-ec49-49bc-a81f-a15fa4a393ce,False,Aves,Semanal,66.13,Facebook
+2024-04-09 11:35:44,28d45826-e6a1-4871-b666-241a1000b3f5,False,Aves,Semestral,196.25,Google
+2024-04-05 17:22:58,bf210640-28b4-4d94-be98-a7fbd423cbe1,False,Gatos,Semestral,143.79,Boca a boca
+2024-06-03 14:23:11,afd3c4ae-ceac-41a9-b523-3fb2ef12f70a,False,Cães,Semestral,180.59,Google
+2024-02-07 07:22:39,251c44a0-b425-4713-b801-f6521ac9ad2f,True,Gatos,Mensal,97.13,Twitter
+2024-05-03 08:22:47,5b9203c9-cf7a-4a82-b817-12a1bf1debf7,True,Gatos,Semestral,276.04,Instagram
+2024-02-07 07:54:49,95e6d4a3-7990-4e18-9373-5daeed915caf,False,Peixes,Anual,74.11,Twitter
+2024-01-20 23:51:11,8b467871-c7cd-4d2f-8ed1-875478410f3e,True,Gatos,Mensal,134.63,Instagram
+2024-05-01 03:24:47,cac2a24f-5548-4199-b17d-377127488774,True,Gatos,Mensal,154.89,Google
+2024-01-06 10:26:04,fecc2aea-3ba5-4227-b9ec-d17e04ef1aca,False,Peixes,Semanal,279.81,Facebook
+2024-02-05 09:50:06,d9a1dd5a-11ae-4732-9080-e1359f2d840d,False,Cães,Semanal,258.17,Google
+2024-03-29 07:49:25,d213119e-9a5a-44d9-b44e-89e87387cd1f,False,Cães,Anual,143.83,Google
+2024-01-31 18:35:52,0aac2f18-1c27-4d67-b923-8954fa53c3ec,True,Gatos,Semanal,42.55,Google
+2024-06-09 02:19:59,bc29f902-6a35-4033-a215-662466877a32,True,Cães,Anual,137.45,Instagram
+2024-02-15 08:30:06,d8d6d8f7-6879-4cba-9f6d-ec38fcaf7ad2,False,Aves,Semanal,158.44,Instagram
+2024-03-07 03:48:03,ef220cb8-98a5-40f1-9f6d-06691551bf56,False,Aves,Mensal,264.4,Twitter
+2024-04-16 03:16:10,d603ab24-03f9-4bc3-8d83-559b3475c607,False,Cães,Mensal,296.67,Google
+2024-02-20 10:28:19,4eb60650-bb3f-4d7c-98a6-ed9b9523cbca,False,Aves,Mensal,127.84,Twitter
+2024-04-18 21:57:07,fe036f2e-2963-40c6-b103-a23dadf9480d,True,Gatos,Mensal,237.86,Boca a boca
+2024-04-11 02:44:44,e655fc5c-af46-43f3-9cea-3e2a2b595946,False,Aves,Semanal,265.03,Google
+2024-03-23 13:05:36,cbea892b-e6f4-425b-924d-17450ecbbb3b,False,Aves,Semestral,201.12,Twitter
+2024-01-04 13:57:39,fad3cf16-ddbb-4af5-9005-0b3895fa1ab5,True,Peixes,Mensal,207.42,Facebook
+2024-01-18 20:43:26,827cecc1-89b3-4247-9835-cc103e8971d0,False,Gatos,Semanal,175.15,Boca a boca
+2024-05-30 08:30:14,ac3827ab-239b-49c8-b3cc-bf66e59074cc,False,Peixes,Semestral,137.71,Instagram
+2024-06-01 07:16:16,b9987b26-d06e-44d9-a14c-775a7e661b19,False,Cães,Mensal,132.62,Boca a boca
+2024-03-11 09:42:32,a379d995-b2e8-4d46-aa40-f6706d077f81,False,Cães,Semestral,212.81,Twitter
+2024-01-26 10:24:56,0dc034db-f14d-4e83-9eab-fed66a03383e,True,Gatos,Semestral,153.45,Instagram
+2024-02-13 17:40:07,53ab33c5-8dfc-4dda-a7e5-5de1395f46a0,False,Cães,Anual,78.27,Twitter
+2024-01-21 16:51:43,af1fbbb8-83c1-4b12-92f8-ecf49d0b6ee7,False,Aves,Anual,182.25,Instagram
+2024-05-12 19:29:32,09c17f2c-dbbf-485d-ac88-758222e69ee1,False,Cães,Anual,203.95,Twitter
+2024-03-25 07:31:54,8c42565f-11ce-4815-ad72-a5caf33ce320,False,Peixes,Anual,130.59,Facebook
+2024-02-02 10:00:06,e4f9a78f-d9d9-426b-bd58-bb7b0ef73b82,False,Gatos,Mensal,263.79,Twitter
+2024-06-04 22:19:31,d277ecd5-7e63-4970-9a86-a17f9b844619,True,Peixes,Anual,24.56,Twitter
+2024-02-07 22:31:07,258d946c-9d6f-41af-bbee-237a5fffdf81,True,Cães,Semanal,92.16,Twitter
+2024-06-08 17:36:54,29b33dc4-ef59-474e-83d7-dc4519d97c4a,False,Cães,Mensal,131.71,Facebook
+2024-01-06 08:22:01,e942d6bd-4fd8-4c9e-b9d2-21ec019bf14a,False,Aves,Mensal,251.38,Boca a boca
+2024-02-03 06:04:46,fc5b6247-fc59-4afe-a7d0-612c432cc7bd,True,Cães,Semanal,159.09,Twitter
+2024-04-30 01:36:01,699fce09-f470-49e5-b768-073365e81a66,False,Cães,Anual,177.81,Google
+2024-01-31 23:06:34,6332777f-54be-44a5-a0cb-6c23b6c619bb,False,Peixes,Semanal,151.11,Facebook
+2024-03-24 17:30:46,f31c89e4-9486-4311-b35a-f4f5193c465a,False,Gatos,Anual,296.55,Twitter
+2024-02-14 21:28:16,2e70d127-ece3-4309-bd74-867e4e55d57e,True,Peixes,Anual,132.31,Google
+2024-05-10 20:34:21,36b1b560-16d3-46b9-8db7-1570a529d7a1,False,Cães,Anual,156.59,Instagram
+2024-04-10 04:55:30,bf8c060d-f2e9-426c-833e-ff5ac28b1408,False,Peixes,Semanal,51.33,Boca a boca
+2024-01-22 12:52:45,30723142-e8c6-41d4-a2b3-b281abbd5dda,True,Peixes,Anual,281.62,Facebook
+2024-05-20 07:08:36,1374e6ef-8a01-4775-8eab-0321e79e76eb,False,Cães,Semanal,86.72,Twitter
+2024-04-16 01:41:08,b14d1c16-ef0a-4e11-a830-7d79610567b8,False,Gatos,Semanal,20.44,Instagram
+2024-01-25 18:45:51,3c77ab45-0a10-4905-a466-307fbf8bc60d,False,Cães,Anual,296.97,Google
+2024-06-04 10:52:34,c3acb6f6-84f7-4ae8-9f7e-166b3e902915,False,Peixes,Semanal,114.42,Boca a boca
+2024-06-06 20:56:54,0a70e364-2b8f-4874-9f9d-c2e1bf2d58a4,False,Gatos,Anual,188.33,Facebook
+2024-04-30 06:43:10,3ef20e8e-c571-4a08-9ad6-2c191cca91be,True,Cães,Semestral,154.13,Facebook
+2024-02-02 02:34:44,faf24b30-60b7-408a-a4b5-522c2e57fb51,True,Cães,Mensal,123.39,Facebook
+2024-05-21 12:22:39,d95f7873-bc6b-4cb8-b927-feaa56b542d1,True,Gatos,Semestral,285.47,Instagram
+2024-06-03 15:13:09,1def5f7a-6398-4837-a435-f9da3cf27412,True,Cães,Semanal,131.75,Boca a boca
+2024-03-31 07:43:22,c33f2586-61e3-4031-88fa-31e72ad43de6,True,Gatos,Semanal,213.33,Facebook
+2024-03-19 04:55:38,8287ef8a-a493-4fd2-bc31-ea59392aa8d9,True,Aves,Anual,262.71,Twitter
+2024-04-17 09:56:21,34a3a86c-ffbf-441c-a7f6-b7b9af0ec62c,False,Gatos,Mensal,92.16,Google
+2024-05-21 15:34:36,c0762210-dba1-4517-9267-3411409a29d9,True,Aves,Semanal,264.81,Boca a boca
+2024-02-21 12:40:20,83315653-2afb-4304-a77b-bd936760a822,True,Peixes,Mensal,195.03,Facebook
+2024-02-05 05:45:33,6c801d83-77b8-4381-ae30-98869531b6ab,False,Peixes,Anual,232.37,Facebook
+2024-01-08 06:40:20,f93a7c74-de8d-4967-b08f-bd64c3630fd7,False,Aves,Semanal,154.71,Twitter
+2024-05-21 08:11:57,3e2fe8dd-e233-4579-a6a2-548da7f7eb39,False,Peixes,Anual,274.26,Google
+2024-03-14 09:19:52,3541f1f8-cffc-47fa-a460-e07c604bf761,True,Cães,Mensal,103.69,Boca a boca
+2024-02-13 14:06:09,fdb69d4c-2e1b-4acf-ba8c-30ee1d719489,False,Aves,Semestral,289.76,Twitter
+2024-01-19 09:28:40,b1c2d1e1-5131-4d68-bd7a-3f4ab276925f,True,Aves,Mensal,33.72,Google
+2024-05-25 09:41:48,59714383-2230-4669-a136-e416a33ede83,False,Aves,Semestral,84.89,Facebook
+2024-04-17 20:54:51,8c4bc06a-1577-42d3-8f4d-9d63a72911c2,True,Gatos,Mensal,179.14,Twitter
+2024-03-28 13:16:57,a80d1361-3ad7-4438-944f-4b3b6df8fdba,False,Aves,Semanal,181.65,Twitter
+2024-01-22 04:10:06,e816ac00-1013-4cb3-a3c4-62fe4d6b9cee,True,Peixes,Anual,282.91,Facebook
+2024-03-10 05:23:20,c2dc92ec-067b-476e-8414-cf236d419992,True,Aves,Anual,241.63,Google
+2024-05-08 19:05:54,4fc6c23c-6413-4646-b94c-753cfe08891e,True,Cães,Semanal,239.92,Instagram
+2024-06-04 18:48:52,24a38c16-80f3-427b-a3da-36e3137cab89,False,Aves,Anual,178.09,Boca a boca
+2024-05-20 21:59:06,ef33bbcc-cb27-4589-bf91-2aef8d96aaa7,False,Gatos,Semanal,220.21,Twitter
+2024-04-23 14:15:23,ae771092-eb8b-4f2f-b9d0-12362cbfc638,True,Peixes,Mensal,40.19,Facebook
+2024-01-07 05:06:29,28516b51-4ee4-4302-aae7-b6c4fd3a3998,True,Cães,Anual,181.73,Twitter
+2024-02-03 23:28:40,429c6790-a750-45a3-82a0-0792bba9e315,False,Cães,Semanal,241.31,Google
+2024-04-18 13:32:04,fb31edea-e400-465c-851b-5baa40cc62fb,True,Cães,Semanal,24.73,Instagram
+2024-04-11 20:41:07,97f89ff2-581a-4f64-98d3-3795f3bc1686,False,Peixes,Anual,264.95,Twitter
+2024-04-27 02:51:07,6c8151ba-1341-4526-b10f-e77cab76f049,False,Cães,Semanal,198.82,Google
+2024-02-03 03:38:04,2340cebe-19b8-4a97-8552-6b8b220fd549,False,Cães,Anual,176.42,Facebook
+2024-05-23 07:07:12,f04e513a-5b47-42d2-8440-d64d6e4819c5,False,Cães,Mensal,136.07,Google
+2024-02-05 20:23:50,d2656002-dc8f-466a-9ff1-50d4a140b2d2,True,Peixes,Anual,60.73,Boca a boca
+2024-01-23 18:03:59,d56c47a2-2443-4bf0-926f-20ce7061eb30,False,Aves,Semanal,149.87,Boca a boca
+2024-01-31 13:17:23,25769ed3-7fcc-45fd-8343-88310c4823db,True,Peixes,Semestral,190.82,Twitter
+2024-06-04 17:58:24,d4a71ac6-8152-4755-8606-ee287cc55d95,True,Aves,Anual,169.64,Instagram
+2024-02-05 06:49:30,86b0e88c-7cd8-4470-b89b-8c481ba76dfa,False,Cães,Anual,281.78,Facebook
+2024-03-06 17:59:59,8867b494-29e4-4ae1-98f2-8ddbf72dcc70,True,Peixes,Mensal,46.15,Instagram
+2024-05-29 08:12:09,67e93b7d-e942-4182-9fdd-950b357f70a2,False,Peixes,Semanal,184.08,Google
+2024-02-27 19:41:49,7609b7b3-7a5c-4f1d-a86c-73f1cf8aa270,True,Peixes,Mensal,117.09,Boca a boca
+2024-01-09 10:31:21,272ffb50-5399-4420-ad6a-10ae374626df,True,Peixes,Mensal,55.2,Google
+2024-01-15 21:07:22,e0cef25f-0f97-453c-9c91-84b0d7b61524,False,Aves,Mensal,26.34,Twitter
+2024-05-17 09:02:56,f02251f6-ba79-4b35-9e88-d186d91af9d9,False,Peixes,Semestral,137.58,Google
+2024-01-23 12:47:42,5ce25502-9d7d-43ac-989a-9972c2518dc2,False,Gatos,Semanal,99.54,Twitter
+2024-05-01 01:41:17,1fb828b2-fb0e-4693-8615-7198abc1353b,True,Peixes,Mensal,34.57,Facebook
+2024-02-15 10:10:03,62d0e500-3a61-46b2-9d6f-06b889a8e807,False,Gatos,Anual,72.43,Boca a boca
+2024-04-08 08:24:15,bef63379-c3c9-4cd9-84dc-0f9ae710e025,False,Aves,Mensal,187.81,Boca a boca
+2024-05-21 20:15:50,49f44bf0-ff18-4741-8fdd-7070c6959b89,False,Peixes,Mensal,28.07,Google
+2024-02-10 15:17:18,519a7798-f2db-4a14-9c2c-b1886e4519e4,True,Peixes,Semestral,116.43,Instagram
+2024-01-19 02:33:23,d88c86f7-66c8-471e-918e-3ab541923a69,True,Aves,Anual,224.63,Boca a boca
+2024-02-07 07:12:09,f764da27-42d4-4c4a-8657-4d1b7544bea4,False,Gatos,Semestral,80.02,Google
+2024-05-22 12:30:50,ab040c4b-629c-4bfc-b940-25dc8bc72f9b,False,Peixes,Semestral,56.43,Boca a boca
+2024-04-19 10:33:07,41901957-99d7-4d20-a1ac-4df0c3a0d5c6,True,Gatos,Mensal,147.02,Instagram
+2024-05-09 02:21:07,faca52a1-58cd-4093-83d0-a2553e569fc7,True,Gatos,Mensal,291.78,Instagram
+2024-04-11 03:34:08,14bd4224-bf9b-4673-80fe-20d50f4a1490,True,Peixes,Anual,246.83,Instagram
+2024-01-17 19:42:47,d78d4815-3b4d-42ea-aa5d-7f4d4a4c0fca,True,Aves,Anual,174.0,Instagram
+2024-06-04 02:59:30,66b6f7a1-1624-469a-be00-936f4759add1,True,Aves,Semestral,111.0,Twitter
+2024-01-14 05:19:57,97ecdd0c-c7c8-4c28-a3a9-26d6e331a52b,True,Gatos,Semanal,290.65,Instagram
+2024-03-13 16:42:25,7a487312-84de-465e-a7f4-ac23e967063d,False,Aves,Semanal,219.9,Google
+2024-06-10 00:36:59,4d8178b8-6c82-4496-ab11-caf9cf9e9e7f,False,Gatos,Anual,148.19,Boca a boca
+2024-04-20 00:26:48,de0000ee-b597-4a7e-a167-9c11e8584ea7,True,Aves,Mensal,86.44,Facebook
+2024-01-20 22:35:17,d234f12e-cf79-4995-b6c9-d79132d924d7,True,Peixes,Anual,30.71,Instagram
+2024-05-29 05:00:55,7c21e359-f1bf-48cd-b1fd-5acd7470f2bf,False,Peixes,Mensal,22.0,Google
+2024-02-05 03:28:17,6f5e715e-fd12-4be7-b419-b28e628e0c98,True,Peixes,Anual,299.41,Twitter
+2024-04-26 14:49:20,3a25ae69-c6ba-49c9-a1cf-e7ce5736e10d,False,Peixes,Semestral,185.66,Facebook
+2024-02-28 19:28:27,959d83d6-6c83-4a8e-a79c-49f50c21fca6,True,Gatos,Mensal,182.02,Facebook
+2024-05-08 06:50:16,615baad1-6ae3-47b1-b25a-a2b1d2b1574a,True,Peixes,Semestral,161.58,Facebook
+2024-05-25 14:34:40,3b94c2b9-e76f-4059-9702-acaa902868de,True,Peixes,Semestral,139.01,Instagram
+2024-06-04 10:16:06,4c0081fe-c107-4c63-befd-55091fbbcbbd,True,Aves,Semestral,192.04,Instagram
+2024-05-12 16:15:38,8040247b-0d96-4513-b860-7f783fd9a568,True,Aves,Anual,132.69,Instagram
+2024-01-16 14:21:09,e7402c0d-5e04-4d4c-a99f-6afef67a2472,False,Gatos,Mensal,44.62,Twitter
+2024-04-06 04:18:16,1d06a651-3577-487c-91e0-aeb8b36a9ad5,True,Gatos,Semestral,190.11,Google
+2024-01-20 11:43:02,e4e9ee50-de7a-4359-8c67-60cfda9b2f49,True,Cães,Mensal,191.41,Facebook
+2024-04-15 13:38:36,b3c8c697-a18a-48c5-9888-9c296b97b75d,False,Peixes,Anual,40.52,Google
+2024-02-17 06:35:13,db81ba37-ec24-4fe4-a472-96da71ac645f,True,Aves,Semestral,296.36,Facebook
+2024-03-07 14:26:16,8b8dac12-f278-4083-b10c-c9f01dd197c6,True,Peixes,Anual,252.86,Instagram
+2024-05-08 10:03:23,64493ba6-16d4-49df-8d82-0e17aee53de5,True,Cães,Mensal,85.98,Instagram
+2024-06-10 15:49:05,d5da9bb1-41b8-4e04-95c3-75481dad544a,True,Gatos,Semanal,217.66,Boca a boca
+2024-06-07 18:52:52,02ff49e4-5987-4c63-ab79-f6f2cfc4ee6b,False,Peixes,Anual,182.84,Boca a boca
+2024-04-13 14:14:47,ff8d4261-568c-4652-95e0-7a564e51e763,True,Gatos,Anual,246.13,Twitter
+2024-04-14 21:58:42,fe23877c-9447-40f5-a396-858dc9fd2947,True,Cães,Semestral,93.57,Boca a boca
+2024-02-11 17:40:31,1b6fae35-43f3-41da-8456-578108f40e82,False,Peixes,Mensal,231.83,Twitter
+2024-02-10 00:47:55,92b9a83c-0e4d-4c33-9a48-d1da82f5308f,False,Gatos,Semestral,245.72,Google
+2024-03-02 06:11:09,d9a19bd3-5907-4043-8a14-838507598c98,False,Gatos,Semanal,33.69,Instagram
+2024-01-17 15:47:25,8ec8eb5b-6b14-40de-8f53-b2fcfb857669,False,Cães,Anual,100.72,Google
+2024-01-15 11:19:29,4b4636e3-aa4e-45fb-a148-1778f7ce8aad,True,Aves,Anual,281.32,Instagram
+2024-02-03 10:16:32,e2dc1596-ea93-4df6-94ad-39275ce0636c,True,Peixes,Mensal,166.47,Instagram
+2024-02-27 06:59:19,dc0a8a6e-daa1-456e-8028-efbd07bb75b2,False,Aves,Semanal,193.72,Twitter
+2024-05-04 05:54:22,8bc604e1-383f-456c-beec-ec283e13ef1e,False,Cães,Anual,294.13,Boca a boca
+2024-03-06 00:58:11,afc81d00-4a4c-4f2e-83a8-f41a8befe6e9,False,Aves,Mensal,267.38,Google
+2024-01-05 01:56:59,c39f5650-10b0-4b45-afa5-c8fa92c4bef9,True,Aves,Mensal,65.3,Twitter
+2024-01-19 12:29:39,87ba0efe-fb9e-4546-b1b9-42f249993bae,False,Aves,Mensal,267.89,Twitter
+2024-04-15 12:55:59,9a6b8984-e827-4d64-95bc-f5b80eded851,False,Cães,Semestral,189.83,Instagram
+2024-01-28 18:31:45,e31e5958-70f1-45f9-92dc-1e8d676cc8dd,True,Cães,Mensal,48.81,Instagram
+2024-05-18 01:00:16,9de48135-27b9-4b63-902b-4feacf4f2eef,True,Gatos,Semanal,204.78,Twitter
+2024-03-12 00:19:31,456dd78c-1696-4626-8f1f-2db1332be5c3,True,Peixes,Mensal,137.5,Google
+2024-04-11 22:53:58,68b4789e-5a76-4437-a669-3106f111661b,False,Cães,Anual,177.66,Boca a boca
+2024-02-18 05:26:42,cbaf2023-bdb4-4c94-801e-6aa638c41219,False,Aves,Semestral,188.77,Facebook
+2024-05-15 09:46:42,ae196ad2-9c42-451e-a808-d41fcbc6f994,False,Peixes,Mensal,290.1,Boca a boca
+2024-03-23 14:46:58,c8148bbb-ed31-4a96-bbf0-4480442e555c,False,Cães,Semanal,122.67,Google
+2024-05-12 12:35:43,46b576f3-caee-4309-ac83-f719df9d7878,True,Cães,Semanal,113.37,Facebook
+2024-05-24 16:35:51,c9f319dd-e4b0-4acb-b9fb-6be286f48d47,True,Peixes,Anual,257.71,Google
+2024-04-09 20:53:05,06aa5929-fafe-42df-9cee-8b0a6c8adbdc,True,Peixes,Mensal,116.22,Facebook
+2024-05-06 03:34:43,4eb0b6e3-23a1-4e4a-b406-551332051a04,False,Peixes,Mensal,246.89,Instagram
+2024-04-14 06:01:20,a8ed9b06-cf3e-40a8-b96d-702a7dd92452,False,Cães,Anual,248.31,Google
+2024-05-28 03:10:12,5e9200f0-e341-47d9-8181-8cf45999895e,False,Gatos,Semestral,249.48,Google
+2024-02-11 06:12:19,ff8dd699-0c5a-4a26-9790-04b01300ae88,False,Peixes,Semanal,167.88,Google
+2024-03-26 08:34:28,8c4dca8a-d6f1-4240-9d18-b60dd6e7caca,False,Cães,Anual,282.47,Boca a boca
+2024-04-07 15:16:44,fdaddcff-67be-4972-9de9-6cf6f27663f4,True,Peixes,Semestral,224.79,Instagram
+2024-05-12 00:10:28,ea4298bf-50b6-40d7-899b-ad9f787d0785,True,Aves,Mensal,84.22,Twitter
+2024-02-18 20:00:37,74085da7-5d60-4f8f-be9b-de9ab6abd665,True,Peixes,Mensal,44.35,Facebook
+2024-04-21 23:19:08,6f27961e-e5a2-4d4e-8395-68f151045c1f,False,Aves,Semanal,193.34,Boca a boca
+2024-05-21 05:17:42,0beb50e5-53ef-4377-84b6-69d0bbb47ed7,True,Aves,Semanal,267.47,Twitter
+2024-06-10 13:23:53,708962e0-9471-4d8f-9d06-f5fc36b81613,False,Aves,Semanal,217.88,Instagram
+2024-02-21 20:53:58,9a990e9c-29db-4eec-aa15-5a61c1cece76,False,Peixes,Anual,93.76,Facebook
+2024-06-09 05:56:54,a3f63eff-95de-48ee-9eb8-6ee0ea84450f,False,Aves,Semestral,168.83,Google
+2024-02-23 10:24:54,4689b4ab-59b2-4d42-a1c1-e82a44ec2511,False,Aves,Semanal,183.86,Instagram
+2024-02-16 15:09:27,f081616b-9b72-4f5e-ab0e-023f4125678a,True,Gatos,Semestral,216.61,Boca a boca
+2024-02-06 15:55:16,5de1b8ed-3905-47b2-9b85-740f3a33362c,False,Cães,Semanal,46.43,Boca a boca
+2024-02-22 16:14:28,f91988c1-baec-44e7-a963-961ddf81eaa6,True,Aves,Anual,220.28,Google
+2024-04-30 02:15:41,0b810329-aaf1-4f65-8055-d548652d084d,True,Cães,Semestral,55.61,Twitter
+2024-05-09 12:29:49,1cc20622-b501-46a4-acdf-b38f6a60a77c,True,Aves,Mensal,256.38,Instagram
+2024-04-04 08:19:24,c3738ebb-17ab-41f3-8e9e-805b7e70cabf,False,Aves,Anual,57.16,Facebook
+2024-01-29 02:28:27,e964d780-b44e-482c-9202-bbacb090765a,False,Peixes,Semanal,131.48,Facebook
+2024-03-19 14:15:02,1ce01caa-410e-4a4d-a013-8411b0371ada,True,Peixes,Anual,26.46,Facebook
+2024-01-25 19:52:44,4f69743d-11f6-413d-a75c-48ecb86875f5,True,Cães,Anual,293.9,Instagram
+2024-04-17 06:59:19,15fad15a-c03f-40fa-af4f-2023e056a30b,False,Cães,Mensal,175.7,Twitter
+2024-01-01 19:01:12,fc85552a-16e5-4789-895d-ec0bb2641c88,False,Cães,Mensal,116.76,Instagram
+2024-03-29 02:38:05,f08c6ae9-5f75-4f65-8ed1-9faf55bb4bc5,True,Peixes,Semestral,199.99,Twitter
+2024-01-07 21:42:05,9b12fd8c-a140-4f6b-a2e6-4b3acf73a3d6,True,Aves,Semanal,212.76,Twitter
+2024-02-10 04:50:16,e5460fb1-3b81-472a-983c-5b3461bd6a2a,True,Aves,Mensal,285.4,Facebook
+2024-05-19 23:28:44,a75a9b24-2629-4f06-9808-bbf8a0067e04,True,Cães,Semestral,20.2,Facebook
+2024-03-26 15:46:44,235149a1-2f51-4f85-8787-351ddc3f5031,True,Gatos,Semanal,254.5,Google
+2024-03-20 10:49:14,4fce2944-9095-4ef4-b285-15357737b383,False,Aves,Semestral,246.11,Facebook
+2024-03-06 18:52:38,8d9c4746-80c5-48aa-ae3a-588cb6b60162,False,Gatos,Semanal,42.21,Boca a boca
+2024-01-31 10:43:06,9bf0ead0-bc6c-495e-957a-294ee808b56b,False,Cães,Semanal,126.96,Boca a boca
+2024-01-09 13:07:24,fab5aff0-de68-4aae-80a1-33e1d6ee3e30,True,Cães,Mensal,182.61,Instagram
+2024-06-09 18:01:54,24a6e6e8-dadc-45ed-b35e-c2ea50f0a604,False,Gatos,Semestral,32.65,Twitter
+2024-03-18 00:19:16,e4c64d95-fe87-4c28-8fcf-5d66c9a7fb7f,False,Gatos,Mensal,283.13,Google
+2024-02-04 20:08:37,34285971-61cb-47f8-a9ac-4a85bdd5b36b,False,Gatos,Semanal,207.55,Facebook
+2024-03-03 03:19:01,5f85a6d6-fb28-4f55-b1be-71190f1541e3,True,Cães,Semestral,41.31,Facebook
+2024-04-30 00:59:19,73351b8d-f975-49f3-b806-d260780ec9ab,True,Peixes,Semanal,168.46,Instagram
+2024-02-01 17:00:37,2394cd27-98b8-4481-af43-23bd62ba1895,False,Aves,Mensal,77.13,Boca a boca
+2024-04-11 01:00:08,9f5065b3-40e6-422e-a945-52b71465bf90,False,Gatos,Semanal,87.42,Boca a boca
+2024-04-07 09:45:11,03757180-733e-4e02-93a5-d5db517926cc,False,Peixes,Anual,243.97,Boca a boca
+2024-01-10 14:06:40,f4d336ea-25f0-4cdb-b1b4-1c7bc372d67b,True,Cães,Mensal,214.22,Twitter
+2024-06-10 14:08:59,b5c0673b-8d38-4bec-b46c-35aad7416768,True,Peixes,Semanal,278.07,Facebook
+2024-05-30 05:26:53,ce7434a9-6ff6-4a52-8d67-db28cb756056,True,Peixes,Semanal,251.02,Boca a boca
+2024-02-14 00:02:07,608ff139-46d4-4f38-b4fe-e38fe3ee8f7f,False,Aves,Semanal,24.74,Twitter
+2024-04-29 04:17:31,614ea6c9-d328-46b2-82cf-7718a56d928b,True,Peixes,Anual,136.45,Boca a boca
+2024-02-24 10:51:12,990b38ed-cdab-4f82-b86d-287c4f43c629,True,Peixes,Mensal,38.55,Boca a boca
+2024-02-01 17:18:53,c9e868bc-3512-4027-a349-ceed67c18e46,False,Gatos,Mensal,81.45,Google
+2024-05-19 02:40:01,dc325ba6-7b34-40ca-af93-c7dd93a2ba1b,True,Gatos,Semestral,27.11,Twitter
+2024-06-05 23:20:25,39456a07-e503-4291-8907-76c21ce38417,True,Cães,Semanal,156.59,Twitter
+2024-04-18 03:47:05,ccaae757-3da7-4ec4-b101-7770c0ee37a9,True,Peixes,Mensal,117.79,Google
+2024-01-07 04:43:30,576e46b2-b565-4f0a-babe-740b0e029847,True,Gatos,Semanal,250.82,Twitter
+2024-02-12 22:06:26,546130c1-3c28-4a48-bb03-8391a54fc82c,True,Peixes,Mensal,146.82,Facebook
+2024-03-27 02:38:26,0256650d-d39f-4ae9-8949-6b4a10c41117,True,Aves,Mensal,20.81,Facebook
+2024-05-08 20:18:45,f9c50831-8f23-43af-a6a7-9a9411abbc36,False,Gatos,Semestral,275.68,Instagram
+2024-01-24 07:09:55,04af63b9-ee96-4d34-922b-89bbc9a55ee9,True,Cães,Semanal,43.89,Facebook
+2024-04-08 21:08:16,19ef5236-3e52-43d2-8449-ab98e3499d6b,True,Peixes,Semanal,25.69,Google
+2024-04-21 00:18:29,59c8dec3-db7d-484f-8fd2-b9bec623ef1c,False,Cães,Anual,204.16,Twitter
+2024-04-16 18:37:44,dfcb67c4-ec3b-430f-9d6a-bbe1b52beb7d,False,Peixes,Semestral,281.55,Google
+2024-06-03 17:31:11,78da7533-4575-4b85-b1d4-a1359ac059c6,True,Gatos,Mensal,177.75,Facebook
+2024-04-04 15:45:10,629263b0-faef-4f64-8a44-a9529e931eab,False,Cães,Anual,115.71,Twitter
+2024-03-01 21:03:14,cea4ba00-3140-414b-b0ba-d9a7f9e58693,False,Cães,Mensal,96.94,Instagram
+2024-01-10 01:44:53,575ec516-0a62-4b26-bb09-74cf93e38a04,True,Peixes,Anual,177.33,Boca a boca
+2024-03-29 13:40:52,9b7ebee3-df41-4ae8-ba05-283471ba9178,True,Gatos,Semestral,189.62,Instagram
+2024-04-10 02:51:13,16e00bb2-01cd-4b8f-87bb-9b3b07472617,True,Gatos,Semestral,119.56,Instagram
+2024-03-28 02:03:38,2e9259fa-77de-4cf5-b318-e8081fbd6aa0,True,Peixes,Semestral,120.39,Boca a boca
